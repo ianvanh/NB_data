@@ -14,7 +14,7 @@
     "estado": "FT",
     "destacado": {
       "pr": "1X",
-      "odd": "1.10"
+      "odd": "1.08"
     },
     "cuotas": {
       "1": "1.38",
@@ -41,8 +41,8 @@
       "U25": false
     },
     "probabilidades": {
-      "1": 43,
-      "2": 31,
+      "1": 31,
+      "2": 43,
       "12": 74,
       "X": 26,
       "1X": 57,
@@ -112,14 +112,14 @@
     "local": {
       "nombre": "FC Iberia 1999",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/6392.png",
-      "golesLocal": "1"
+      "golesLocal": "2"
     },
     "visitante": {
       "nombre": "Levadia",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/4400.png",
-      "golesVisitante": "1"
+      "golesVisitante": "2"
     },
-    "estado": "LIVE",
+    "estado": "AET",
     "destacado": {
       "pr": "12",
       "odd": "1.28"
@@ -137,16 +137,16 @@
       "U25": "1.75"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": true,
+      "NG": false,
+      "O25": true,
+      "U25": false
     },
     "probabilidades": {
       "1": 36,
@@ -171,36 +171,36 @@
     "visitante": {
       "nombre": "FC København",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/85.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "NS",
+    "estado": "FT",
     "destacado": {
       "pr": "12",
-      "odd": "1.16"
+      "odd": "1.22"
     },
     "cuotas": {
-      "1": "7.00",
-      "2": "1.40",
-      "12": "1.16",
-      "X": "4.50",
-      "1X": "2.75",
-      "X2": "1.08",
-      "GG": "2.00",
-      "NG": "1.72",
+      "1": "5.75",
+      "2": "1.48",
+      "12": "1.22",
+      "X": "4.20",
+      "1X": "2.62",
+      "X2": "1.12",
+      "GG": "1.90",
+      "NG": "1.80",
       "O25": "1.80",
       "U25": "2.00"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O25": false,
+      "U25": true
     },
     "probabilidades": {
       "1": 22,
@@ -220,41 +220,41 @@
     "local": {
       "nombre": "Differdange 03",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/3998.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "The New Saints",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/3/579.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "FT",
     "destacado": {
       "pr": "12",
       "odd": "1.22"
     },
     "cuotas": {
-      "1": "1.90",
-      "2": "3.30",
+      "1": "1.83",
+      "2": "3.50",
       "12": "1.22",
       "X": "3.70",
-      "1X": "1.25",
+      "1X": "1.22",
       "X2": "1.80",
       "GG": "1.66",
       "NG": "2.10",
-      "O25": "1.72",
-      "U25": "2.07"
+      "O25": "1.70",
+      "U25": "2.10"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": false,
+      "NG": true,
+      "O25": false,
+      "U25": true
     },
     "probabilidades": {
       "1": 37,
@@ -279,24 +279,24 @@
     "visitante": {
       "nombre": "Newport County",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/72.png",
-      "golesVisitante": "0"
+      "golesVisitante": "2"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "O15",
-      "odd": "1.25"
+      "odd": "1.22"
     },
     "cuotas": {
-      "1": "1.61",
-      "2": "5.00",
-      "12": "1.22",
-      "X": "4.20",
-      "1X": "1.16",
-      "X2": "2.30",
-      "GG": "1.80",
-      "NG": "1.95",
-      "O25": "1.80",
-      "U25": "2.00"
+      "1": "1.70",
+      "2": "4.75",
+      "12": "1.25",
+      "X": "3.90",
+      "1X": "1.18",
+      "X2": "2.10",
+      "GG": "1.75",
+      "NG": "2.00",
+      "O25": "1.75",
+      "U25": "2.05"
     },
     "resultados": {
       "1": null,
@@ -328,27 +328,27 @@
     "local": {
       "nombre": "Crvena Zvezda",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/2673.png",
-      "golesLocal": "0"
+      "golesLocal": "4"
     },
     "visitante": {
       "nombre": "Lincoln Red Imps",
       "logo": "https://cdn.sportmonks.com/images//soccer/teams/20/10068.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "HT",
     "destacado": {
       "pr": "1",
-      "odd": "1.04"
+      "odd": "1.05"
     },
     "cuotas": {
-      "1": "1.04",
-      "2": "26.00",
+      "1": "1.05",
+      "2": "21.00",
       "12": "1.01",
       "X": "15.00",
       "1X": "1.00",
-      "X2": "9.00",
-      "GG": "2.20",
-      "NG": "1.61",
+      "X2": "8.50",
+      "GG": "2.10",
+      "NG": "1.66",
       "O25": "1.16",
       "U25": "4.50"
     },
@@ -389,22 +389,22 @@
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/2417.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "HT",
     "destacado": {
       "pr": "O15",
-      "odd": "1.33"
+      "odd": "1.28"
     },
     "cuotas": {
-      "1": "2.62",
+      "1": "2.55",
       "2": "2.62",
       "12": "1.36",
-      "X": "3.10",
+      "X": "3.20",
       "1X": "1.44",
-      "X2": "1.44",
-      "GG": "1.83",
-      "NG": "1.83",
-      "O25": "2.05",
-      "U25": "1.75"
+      "X2": "1.50",
+      "GG": "1.80",
+      "NG": "1.90",
+      "O25": "2.00",
+      "U25": "1.80"
     },
     "resultados": {
       "1": null,
@@ -441,24 +441,24 @@
     "visitante": {
       "nombre": "Keflavík",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/10419.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "12",
-      "odd": "1.18"
+      "odd": "1.16"
     },
     "cuotas": {
-      "1": "3.60",
-      "2": "1.72",
-      "12": "1.18",
-      "X": "3.90",
-      "1X": "1.90",
-      "X2": "1.22",
-      "GG": "1.44",
-      "NG": "2.63",
-      "O25": "1.50",
-      "U25": "2.50"
+      "1": "4.20",
+      "2": "1.57",
+      "12": "1.16",
+      "X": "4.10",
+      "1X": "2.15",
+      "X2": "1.16",
+      "GG": "1.50",
+      "NG": "2.45",
+      "O25": "1.53",
+      "U25": "2.37"
     },
     "resultados": {
       "1": null,
@@ -490,25 +490,25 @@
     "local": {
       "nombre": "Njardvík",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/10423.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "HK",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/178.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "O15",
-      "odd": "1.13"
+      "odd": "1.14"
     },
     "cuotas": {
-      "1": "1.75",
-      "2": "3.50",
-      "12": "1.18",
-      "X": "3.80",
-      "1X": "1.22",
-      "X2": "1.90",
+      "1": "1.50",
+      "2": "4.75",
+      "12": "1.16",
+      "X": "4.20",
+      "1X": "1.12",
+      "X2": "2.30",
       "GG": "1.50",
       "NG": "2.50",
       "O25": "1.44",
@@ -554,19 +554,19 @@
     "estado": "NS",
     "destacado": {
       "pr": "U35",
-      "odd": "1.23"
+      "odd": "1.16"
     },
     "cuotas": {
-      "1": "4.50",
-      "2": "1.66",
-      "12": "1.22",
-      "X": "3.50",
-      "1X": "2.00",
-      "X2": "1.12",
-      "GG": "1.83",
-      "NG": "1.91",
-      "O25": "2.00",
-      "U25": "1.80"
+      "1": "3.60",
+      "2": "2.05",
+      "12": "1.30",
+      "X": "3.00",
+      "1X": "1.61",
+      "X2": "1.22",
+      "GG": "2.03",
+      "NG": "1.74",
+      "O25": "2.35",
+      "U25": "1.57"
     },
     "resultados": {
       "1": null,
@@ -611,14 +611,14 @@
       "odd": "1.18"
     },
     "cuotas": {
-      "1": "2.90",
-      "2": "2.60",
-      "12": "1.40",
-      "X": "2.90",
-      "1X": "1.50",
-      "X2": "1.40",
-      "GG": "2.00",
-      "NG": "1.72",
+      "1": "3.70",
+      "2": "2.00",
+      "12": "1.36",
+      "X": "2.87",
+      "1X": "1.66",
+      "X2": "1.25",
+      "GG": "2.10",
+      "NG": "1.66",
       "O25": "2.40",
       "U25": "1.53"
     },
@@ -662,7 +662,7 @@
     "estado": "NS",
     "destacado": {
       "pr": "U35",
-      "odd": "1.25"
+      "odd": "1.28"
     },
     "cuotas": {
       "1": "1.50",
@@ -671,8 +671,8 @@
       "X": "4.00",
       "1X": "1.10",
       "X2": "2.50",
-      "GG": "2.10",
-      "NG": "1.66",
+      "GG": "2.20",
+      "NG": "1.61",
       "O25": "2.05",
       "U25": "1.75"
     },
@@ -809,4 +809,4 @@
       "U25": 58
     }
   }
-]
+      ]

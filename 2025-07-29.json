@@ -3,6 +3,7 @@
     "dateTime": "29/07/2025, 10:00 a. m.",
     "local": {
       "nombre": "Kairat",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/3108.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -56,6 +57,7 @@
     "dateTime": "29/07/2025, 10:30 a. m.",
     "local": {
       "nombre": "SJK Akatemia II",
+      "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -109,6 +111,7 @@
     "dateTime": "29/07/2025, 11:00 a. m.",
     "local": {
       "nombre": "FC Iberia 1999",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/6392.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -162,6 +165,7 @@
     "dateTime": "29/07/2025, 01:00 p. m.",
     "local": {
       "nombre": "Differdange 03",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/3998.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -215,6 +219,7 @@
     "dateTime": "29/07/2025, 01:30 p. m.",
     "local": {
       "nombre": "Inter Club d'Escaldes",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/17303.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -268,6 +273,7 @@
     "dateTime": "29/07/2025, 02:00 p. m.",
     "local": {
       "nombre": "General Caballero JLM",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/3/234819.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -321,6 +327,7 @@
     "dateTime": "29/07/2025, 02:00 p. m.",
     "local": {
       "nombre": "Zrinjski",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/6213.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -374,6 +381,7 @@
     "dateTime": "29/07/2025, 02:15 p. m.",
     "local": {
       "nombre": "Leiknir Reykjavík",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/27/9499.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -427,6 +435,7 @@
     "dateTime": "29/07/2025, 02:15 p. m.",
     "local": {
       "nombre": "Njardvík",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/10423.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -480,6 +489,7 @@
     "dateTime": "29/07/2025, 02:15 p. m.",
     "local": {
       "nombre": "Thróttur Reykjavík",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/1654.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -533,6 +543,7 @@
     "dateTime": "29/07/2025, 04:30 p. m.",
     "local": {
       "nombre": "Sportivo Luqueño",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/5582.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -586,6 +597,7 @@
     "dateTime": "29/07/2025, 05:00 p. m.",
     "local": {
       "nombre": "Botafogo",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/2864.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -639,6 +651,7 @@
     "dateTime": "29/07/2025, 06:30 p. m.",
     "local": {
       "nombre": "Grêmio",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/2925.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -692,6 +705,7 @@
     "dateTime": "29/07/2025, 06:30 p. m.",
     "local": {
       "nombre": "Criciúma",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/6036.png",
       "golesLocal": "0"
     },
     "visitante": {
@@ -745,6 +759,7 @@
     "dateTime": "29/07/2025, 07:35 p. m.",
     "local": {
       "nombre": "Goiás",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/9323.png",
       "golesLocal": "0"
     },
     "visitante": {

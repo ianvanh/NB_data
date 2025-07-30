@@ -594,59 +594,6 @@
     }
   },
   {
-    "dateTime": "29/07/2025, 04:00 p. m.",
-    "local": {
-      "nombre": "Flora U19",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/94938.png",
-      "golesLocal": "0"
-    },
-    "visitante": {
-      "nombre": "Vastseliina Tannem",
-      "golesVisitante": "0"
-    },
-    "estado": "NS",
-    "destacado": {
-      "pr": null,
-      "odd": null
-    },
-    "cuotas": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
-    },
-    "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
-    },
-    "probabilidades": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
-    }
-  },
-  {
     "dateTime": "29/07/2025, 04:30 p. m.",
     "local": {
       "nombre": "Sportivo Luqueño",
@@ -766,7 +713,7 @@
       "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png",
       "golesVisitante": "0"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "1X",
       "odd": "1.12"
@@ -784,16 +731,16 @@
       "U25": "1.66"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": false,
+      "NG": true,
+      "O25": false,
+      "U25": true
     },
     "probabilidades": {
       "1": 54,
@@ -808,4 +755,4 @@
       "U25": 62
     }
   }
-      ]
+]

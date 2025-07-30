@@ -274,14 +274,14 @@
     "local": {
       "nombre": "Barnet",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/318.png",
-      "golesLocal": "0"
+      "golesLocal": "2"
     },
     "visitante": {
       "nombre": "Newport County",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/72.png",
       "golesVisitante": "2"
     },
-    "estado": "LIVE",
+    "estado": "FT_PEN",
     "destacado": {
       "pr": "O15",
       "odd": "1.22"
@@ -328,14 +328,14 @@
     "local": {
       "nombre": "Crvena Zvezda",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/2673.png",
-      "golesLocal": "4"
+      "golesLocal": "5"
     },
     "visitante": {
       "nombre": "Lincoln Red Imps",
       "logo": "https://cdn.sportmonks.com/images//soccer/teams/20/10068.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "HT",
+    "estado": "FT",
     "destacado": {
       "pr": "1",
       "odd": "1.05"
@@ -353,16 +353,16 @@
       "U25": "4.50"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": true,
+      "NG": false,
+      "O25": true,
+      "U25": false
     },
     "probabilidades": {
       "1": 66,
@@ -382,14 +382,14 @@
     "local": {
       "nombre": "Zrinjski",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/6213.png",
-      "golesLocal": "0"
+      "golesLocal": "2"
     },
     "visitante": {
       "nombre": "Slovan Bratislava",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/2417.png",
-      "golesVisitante": "0"
+      "golesVisitante": "2"
     },
-    "estado": "HT",
+    "estado": "FT",
     "destacado": {
       "pr": "O15",
       "odd": "1.28"
@@ -407,16 +407,16 @@
       "U25": "1.80"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O25": true,
+      "U25": false
     },
     "probabilidades": {
       "1": 48,
@@ -441,9 +441,9 @@
     "visitante": {
       "nombre": "Keflavík",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/10419.png",
-      "golesVisitante": "1"
+      "golesVisitante": "2"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "12",
       "odd": "1.16"
@@ -461,16 +461,16 @@
       "U25": "2.37"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O25": false,
+      "U25": true
     },
     "probabilidades": {
       "1": 23,
@@ -490,14 +490,14 @@
     "local": {
       "nombre": "Njardvík",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/10423.png",
-      "golesLocal": "1"
+      "golesLocal": "3"
     },
     "visitante": {
       "nombre": "HK",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/178.png",
       "golesVisitante": "0"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "O15",
       "odd": "1.14"
@@ -515,16 +515,16 @@
       "U25": "2.62"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": false,
+      "NG": true,
+      "O25": true,
+      "U25": false
     },
     "probabilidades": {
       "1": 45,
@@ -544,14 +544,14 @@
     "local": {
       "nombre": "22 de Julio",
       "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "Leones del Norte",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/262304.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "FT",
     "destacado": {
       "pr": "U35",
       "odd": "1.16"
@@ -569,16 +569,16 @@
       "U25": "1.57"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": false,
+      "NG": true,
+      "O25": false,
+      "U25": true
     },
     "probabilidades": {
       "1": 33,
@@ -594,18 +594,71 @@
     }
   },
   {
+    "dateTime": "29/07/2025, 04:00 p. m.",
+    "local": {
+      "nombre": "Flora U19",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/94938.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Vastseliina Tannem",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": null,
+      "odd": null
+    },
+    "cuotas": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O25": null,
+      "U25": null
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O25": null,
+      "U25": null
+    },
+    "probabilidades": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O25": null,
+      "U25": null
+    }
+  },
+  {
     "dateTime": "29/07/2025, 04:30 p. m.",
     "local": {
       "nombre": "Sportivo Luqueño",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/5582.png",
-      "golesLocal": "0"
+      "golesLocal": "2"
     },
     "visitante": {
       "nombre": "Nacional Asunción",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/3480.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "NS",
+    "estado": "FT",
     "destacado": {
       "pr": "U35",
       "odd": "1.18"
@@ -623,16 +676,16 @@
       "U25": "1.53"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": true,
+      "NG": false,
+      "O25": true,
+      "U25": false
     },
     "probabilidades": {
       "1": 29,
@@ -652,41 +705,41 @@
     "local": {
       "nombre": "Botafogo",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/2864.png",
-      "golesLocal": "0"
+      "golesLocal": "2"
     },
     "visitante": {
       "nombre": "Bragantino",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/7808.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "FT",
     "destacado": {
       "pr": "U35",
-      "odd": "1.28"
+      "odd": "1.22"
     },
     "cuotas": {
-      "1": "1.50",
-      "2": "7.00",
-      "12": "1.22",
-      "X": "4.00",
-      "1X": "1.10",
-      "X2": "2.50",
+      "1": "1.55",
+      "2": "6.50",
+      "12": "1.25",
+      "X": "3.75",
+      "1X": "1.11",
+      "X2": "2.37",
       "GG": "2.20",
       "NG": "1.61",
-      "O25": "2.05",
-      "U25": "1.75"
+      "O25": "2.25",
+      "U25": "1.61"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": false,
+      "NG": true,
+      "O25": false,
+      "U25": true
     },
     "probabilidades": {
       "1": 53,
@@ -704,85 +757,31 @@
   {
     "dateTime": "29/07/2025, 06:00 p. m.",
     "local": {
-      "nombre": "Atlético Nacional",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/6597.png",
-      "golesLocal": "0"
+      "nombre": "Santa Fe",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/12506.png",
+      "golesLocal": "2"
     },
     "visitante": {
-      "nombre": "Cúcuta Deportivo",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/14645.png",
+      "nombre": "Internacional Palmira",
+      "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
-    "destacado": {
-      "pr": "12",
-      "odd": "1.25"
-    },
-    "cuotas": {
-      "1": "1.40",
-      "2": "8.00",
-      "12": "1.25",
-      "X": "3.90",
-      "1X": "1.08",
-      "X2": "2.70",
-      "GG": "2.25",
-      "NG": "1.62",
-      "O25": "2.05",
-      "U25": "1.73"
-    },
-    "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O25": null,
-      "U25": null
-    },
-    "probabilidades": {
-      "1": 64,
-      "2": 14,
-      "12": 78,
-      "X": 22,
-      "1X": 86,
-      "X2": 36,
-      "GG": 47,
-      "NG": 53,
-      "O25": 47,
-      "U25": 53
-    }
-  },
-  {
-    "dateTime": "29/07/2025, 06:30 p. m.",
-    "local": {
-      "nombre": "Grêmio",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/2925.png",
-      "golesLocal": "0"
-    },
-    "visitante": {
-      "nombre": "Fortaleza",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/3621.png",
-      "golesVisitante": "0"
-    },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "1X",
-      "odd": "1.30"
+      "odd": "1.12"
     },
     "cuotas": {
-      "1": "2.15",
-      "2": "3.40",
-      "12": "1.33",
-      "X": "3.25",
-      "1X": "1.30",
-      "X2": "1.66",
-      "GG": "1.95",
-      "NG": "1.80",
-      "O25": "2.20",
-      "U25": "1.65"
+      "1": "1.66",
+      "2": "6.00",
+      "12": "1.30",
+      "X": "3.40",
+      "1X": "1.12",
+      "X2": "2.15",
+      "GG": "2.10",
+      "NG": "1.66",
+      "O25": "2.15",
+      "U25": "1.66"
     },
     "resultados": {
       "1": null,
@@ -797,16 +796,16 @@
       "U25": null
     },
     "probabilidades": {
-      "1": 53,
-      "2": 21,
-      "12": 73,
-      "X": 27,
-      "1X": 79,
-      "X2": 47,
-      "GG": 45,
-      "NG": 55,
-      "O25": 42,
-      "U25": 58
+      "1": 54,
+      "2": 18,
+      "12": 72,
+      "X": 28,
+      "1X": 82,
+      "X2": 46,
+      "GG": 40,
+      "NG": 60,
+      "O25": 38,
+      "U25": 62
     }
   }
       ]

@@ -935,7 +935,7 @@
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/313.png",
       "golesVisitante": "0"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "1",
       "odd": "1.10"
@@ -957,20 +957,20 @@
       "U35": "2.62"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": false,
+      "NG": true,
+      "O15": false,
+      "U15": true,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 76,
@@ -997,9 +997,9 @@
     },
     "visitante": {
       "nombre": "Kristiine JK",
-      "golesVisitante": "0"
+      "golesVisitante": "4"
     },
-    "estado": "NS",
+    "estado": "FT",
     "destacado": {
       "pr": null,
       "odd": null
@@ -1021,20 +1021,20 @@
       "U35": null
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": true,
+      "U35": false
     },
     "probabilidades": {
       "1": null,
@@ -1063,9 +1063,9 @@
     "visitante": {
       "nombre": "Skendija 79",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/876.png",
-      "golesVisitante": "1"
+      "golesVisitante": "2"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "1",
       "odd": "1.18"
@@ -1087,20 +1087,20 @@
       "U35": "1.61"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 58,
@@ -1124,14 +1124,14 @@
     "local": {
       "nombre": "Ludogorets",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/2742.png",
-      "golesLocal": "1"
+      "golesLocal": "3"
     },
     "visitante": {
       "nombre": "Rijeka",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/3358.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "LIVE",
+    "estado": "AET",
     "destacado": {
       "pr": "U35",
       "odd": "1.25"
@@ -1153,20 +1153,20 @@
       "U35": "1.25"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 46,
@@ -1190,14 +1190,14 @@
     "local": {
       "nombre": "Akhmat Grozny",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/3578.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "Zenit",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/2963.png",
       "golesVisitante": "2"
     },
-    "estado": "HT",
+    "estado": "FT",
     "destacado": {
       "pr": "U35",
       "odd": "1.37"
@@ -1219,20 +1219,20 @@
       "U35": "1.37"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 31,
@@ -1263,7 +1263,7 @@
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/2712.png",
       "golesVisitante": "2"
     },
-    "estado": "HT",
+    "estado": "FT",
     "destacado": {
       "pr": "U35",
       "odd": "1.39"
@@ -1285,20 +1285,20 @@
       "U35": "1.39"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O15": true,
+      "U15": false,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 27,
@@ -1322,14 +1322,14 @@
     "local": {
       "nombre": "Independiente Juniors",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/234802.png",
-      "golesLocal": "0"
+      "golesLocal": "2"
     },
     "visitante": {
       "nombre": "Imbabura",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/9134.png",
       "golesVisitante": "1"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "1X",
       "odd": "1.25"
@@ -1351,20 +1351,20 @@
       "U35": "1.16"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 48,
@@ -1395,7 +1395,7 @@
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/8119.png",
       "golesVisitante": "1"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "O15",
       "odd": "1.28"
@@ -1417,20 +1417,20 @@
       "U35": "1.30"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O15": false,
+      "U15": true,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 43,
@@ -1454,14 +1454,14 @@
     "local": {
       "nombre": "Panathinaikos",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/57.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "Rangers",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/62.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "O15",
       "odd": "1.14"
@@ -1483,20 +1483,20 @@
       "U35": "1.61"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 41,
@@ -1527,7 +1527,7 @@
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/15644.png",
       "golesVisitante": "0"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "U35",
       "odd": "1.18"
@@ -1549,20 +1549,20 @@
       "U35": "1.18"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O15": false,
+      "U15": true,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 43,
@@ -1591,9 +1591,9 @@
     "visitante": {
       "nombre": "Lech Poznań",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/302.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "O15",
       "odd": "1.16"
@@ -1615,20 +1615,20 @@
       "U35": "1.57"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O15": false,
+      "U15": true,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 41,
@@ -1652,14 +1652,14 @@
     "local": {
       "nombre": "Independiente Rivadavia",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/812.png",
-      "golesLocal": "0"
+      "golesLocal": "2"
     },
     "visitante": {
       "nombre": "Central Córdoba",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/6413.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "12",
       "odd": "1.28"
@@ -1681,20 +1681,20 @@
       "U35": "1.25"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 54,
@@ -1718,14 +1718,14 @@
     "local": {
       "nombre": "Salzburg",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/49.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "Brann",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/2474.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "NS",
+    "estado": "FT",
     "destacado": {
       "pr": "O15",
       "odd": "1.12"
@@ -1747,20 +1747,20 @@
       "U35": "1.66"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 36,

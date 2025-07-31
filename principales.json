@@ -678,5 +678,444 @@
         }
       ]
     }
+  },
+  "2025-W30": {
+    "07-26": {
+      "matches": [
+        {
+          "eventId": "13482253",
+          "eventIdFl": "YBm2PlJM",
+          "local": "Blaublitz Akita",
+          "visitante": "Roasso Kumamoto",
+          "logoLocal": "/api/team-logo/44523",
+          "logoVisitante": "/api/team-logo/21903",
+          "finalizado": true,
+          "golesLocal": "3",
+          "golesVisitante": "2",
+          "mercados": [
+            {
+              "tipo": "1",
+              "cuota": "3.00",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "12",
+              "cuota": "1.36",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "GG",
+              "cuota": "1.91",
+              "resultado": "ganado"
+            }
+          ]
+        },
+        {
+          "eventId": "13292944",
+          "eventIdFl": "4Q4FDcRH",
+          "local": "Fredrikstad FK",
+          "visitante": "Molde FK",
+          "logoLocal": "/api/team-logo/687",
+          "logoVisitante": "/api/team-logo/661",
+          "finalizado": true,
+          "golesLocal": "4",
+          "golesVisitante": "2",
+          "mercados": [
+            {
+              "tipo": "2",
+              "cuota": "2.7",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "12",
+              "cuota": "1.26",
+              "resultado": "ganado"
+            }
+          ]
+        },
+        {
+          "eventId": "14089044",
+          "eventIdFl": "KrfHMzUa",
+          "local": "Colegiales",
+          "visitante": "Atlanta",
+          "logoLocal": "/api/team-logo/112493",
+          "logoVisitante": "/api/team-logo/53799",
+          "finalizado": true,
+          "golesLocal": "2",
+          "golesVisitante": "0",
+          "mercados": [
+            {
+              "tipo": "12",
+              "cuota": "1.26",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "2",
+              "cuota": "1.45",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "GG",
+              "cuota": "1.75",
+              "resultado": "perdido"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "2025-W31": {
+    "07-30": {
+      "matches": [
+        {
+          "eventId": "13336043",
+          "eventIdFl": "phhCC36b",
+          "local": "SK Brann II",
+          "visitante": "Jerv",
+          "logoLocal": "/api/team-logo/872",
+          "logoVisitante": "/api/team-logo/862",
+          "finalizado": true,
+          "golesLocal": "2",
+          "golesVisitante": "4",
+          "mercados": [
+            {
+              "tipo": "2",
+              "cuota": "1.53",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "12",
+              "cuota": "1.22",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "GG",
+              "cuota": "1.45",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "Over",
+              "cuota": "1.33",
+              "resultado": "ganado"
+            }
+          ]
+        },
+        {
+          "eventId": "13543368",
+          "eventIdFl": "I3wa8ZhB",
+          "local": "HJS",
+          "visitante": "TPV",
+          "logoLocal": "/api/team-logo/252567",
+          "logoVisitante": "/api/team-logo/2269",
+          "finalizado": true,
+          "golesLocal": "3",
+          "golesVisitante": "3",
+          "mercados": [
+            {
+              "tipo": "2",
+              "cuota": "3.30",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "12",
+              "cuota": "1.20",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "GG",
+              "cuota": "1.40",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "Over",
+              "cuota": "1.36",
+              "resultado": "ganado"
+            }
+          ]
+        },
+        {
+          "eventId": "13543369",
+          "eventIdFl": "4Ky76DNN",
+          "local": "NJS",
+          "visitante": "PPJ",
+          "logoLocal": "/api/team-logo/191717",
+          "logoVisitante": "/api/team-logo/190806",
+          "finalizado": true,
+          "golesLocal": "4",
+          "golesVisitante": "1",
+          "mercados": [
+            {
+              "tipo": "1",
+              "cuota": "2.72",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "12",
+              "cuota": "1.18",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "NG",
+              "cuota": "3.20",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "Over",
+              "cuota": "1.30",
+              "resultado": "ganado"
+            }
+          ]
+        },
+        {
+          "eventId": "14020046",
+          "eventIdFl": "h4x6GdW0",
+          "local": "Dainava Alytus",
+          "visitante": "FK Panevėžys",
+          "logoLocal": "/api/team-logo/192536",
+          "logoVisitante": "/api/team-logo/192763",
+          "finalizado": true,
+          "golesLocal": "0",
+          "golesVisitante": "3",
+          "mercados": [
+            {
+              "tipo": "2",
+              "cuota": "1.75",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "12",
+              "cuota": "1.20",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "NG",
+              "cuota": "1.92",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "Under",
+              "cuota": "1.85",
+              "resultado": "perdido"
+            }
+          ]
+        },
+        {
+          "eventId": "14054674",
+          "eventIdFl": "CEttIulo",
+          "local": "FK Csíkszereda Miercurea Ciuc",
+          "visitante": "FC Dinamo București",
+          "logoLocal": "/api/team-logo/283972",
+          "logoVisitante": "/api/team-logo/3292",
+          "finalizado": true,
+          "golesLocal": "2",
+          "golesVisitante": "2",
+          "mercados": [
+            {
+              "tipo": "1",
+              "cuota": "3.60",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "12",
+              "cuota": "1.36",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "GG",
+              "cuota": "1.90",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "Under",
+              "cuota": "1.60",
+              "resultado": "perdido"
+            }
+          ]
+        },
+        {
+          "eventId": "14069363",
+          "eventIdFl": "pIqXj8v8",
+          "local": "Deportivo Riestra",
+          "visitante": "Lanús",
+          "logoLocal": "/api/team-logo/189723",
+          "logoVisitante": "/api/team-logo/3218",
+          "finalizado": true,
+          "golesLocal": "1",
+          "golesVisitante": "0",
+          "mercados": [
+            {
+              "tipo": "X",
+              "cuota": "2.70",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "1X",
+              "cuota": "1.54",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "NG",
+              "cuota": "1.47",
+              "resultado": "pendiente"
+            },
+            {
+              "tipo": "Under",
+              "cuota": "1.30",
+              "resultado": "ganado"
+            }
+          ]
+        },
+        {
+          "eventId": "14069356",
+          "eventIdFl": "6mEIoD2S",
+          "local": "Banfield",
+          "visitante": "Defensa y Justicia",
+          "logoLocal": "/api/team-logo/3219",
+          "logoVisitante": "/api/team-logo/36839",
+          "finalizado": true,
+          "golesLocal": "0",
+          "golesVisitante": "0",
+          "mercados": [
+            {
+              "tipo": "2",
+              "cuota": "2.95",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "X2",
+              "cuota": "1.48",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "NG",
+              "cuota": "1.45",
+              "resultado": "pendiente"
+            },
+            {
+              "tipo": "Under",
+              "cuota": "1.50",
+              "resultado": "ganado"
+            }
+          ]
+        },
+        {
+          "eventId": "14044780",
+          "eventIdFl": "hdQ855ke",
+          "local": "Nacional Potosí",
+          "visitante": "CD Totora Real Oruro",
+          "logoLocal": "/api/team-logo/47700",
+          "logoVisitante": "/api/team-logo/423186",
+          "finalizado": true,
+          "golesLocal": "2",
+          "golesVisitante": "3",
+          "mercados": [
+            {
+              "tipo": "1",
+              "cuota": "1.48",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "1X",
+              "cuota": "1.15",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "GG",
+              "cuota": "1.62",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "Over",
+              "cuota": "1.44",
+              "resultado": "ganado"
+            }
+          ]
+        },
+        {
+          "eventId": "13472794",
+          "eventIdFl": "OOzVPO7C",
+          "local": "Juventude",
+          "visitante": "Sport Recife",
+          "logoLocal": "/api/team-logo/1980",
+          "logoVisitante": "/api/team-logo/1959",
+          "finalizado": true,
+          "golesLocal": "2",
+          "golesVisitante": "0",
+          "mercados": [
+            {
+              "tipo": "1",
+              "cuota": "2.62",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "12",
+              "cuota": "1.36",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "NG",
+              "cuota": "1.80",
+              "resultado": "pendiente"
+            }
+          ]
+        },
+        {
+          "eventId": "14069352",
+          "eventIdFl": "jFt7TDtp",
+          "local": "Club Atlético Unión de Santa Fe",
+          "visitante": "Estudiantes de La Plata",
+          "logoLocal": "/api/team-logo/3204",
+          "logoVisitante": "/api/team-logo/3206",
+          "finalizado": true,
+          "golesLocal": "1",
+          "golesVisitante": "0",
+          "mercados": [
+            {
+              "tipo": "1",
+              "cuota": "2.62",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "12",
+              "cuota": "1.36",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "NG",
+              "cuota": "1.70",
+              "resultado": "pendiente"
+            }
+          ]
+        },
+        {
+          "eventId": "14094762",
+          "eventIdFl": "pf1hh2d2",
+          "local": "Botafogo-SP",
+          "visitante": "Volta Redonda",
+          "logoLocal": "/api/team-logo/1979",
+          "logoVisitante": "/api/team-logo/6982",
+          "finalizado": true,
+          "golesLocal": "0",
+          "golesVisitante": "0",
+          "mercados": [
+            {
+              "tipo": "1",
+              "cuota": "2.38",
+              "resultado": "perdido"
+            },
+            {
+              "tipo": "1X",
+              "cuota": "1.30",
+              "resultado": "ganado"
+            },
+            {
+              "tipo": "NG",
+              "cuota": "1.50",
+              "resultado": "pendiente"
+            }
+          ]
+        }
+      ]
+    },
   }
 }

@@ -1,1121 +1,1821 @@
 {
-  "2025-W28": {
-    "07-12": {
+  "2025-W22": {
+    "05-26": {
       "matches": [
         {
-          "eventId": "13482253",
-          "eventIdFl": "YBm2PlJM",
-          "local": "Blaublitz Akita",
-          "visitante": "Roasso Kumamoto",
-          "logoLocal": "/api/team-logo/44523",
-          "logoVisitante": "/api/team-logo/21903",
-          "finalizado": true,
-          "golesLocal": "3",
-          "golesVisitante": "2",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "3.00",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.36",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.91",
-              "resultado": "ganado"
-            }
-          ]
+          "homeTeam": {
+            "id": "3091",
+            "name": "Hatayspor",
+            "logoUrl": "/api/team-logo/3091"
+          },
+          "awayTeam": {
+            "id": "3052",
+            "name": "Fenerbahçe",
+            "logoUrl": "/api/team-logo/3052"
+          },
+          "odds": {
+            "1": "9.00",
+            "2": "1.70",
+            "X": "1.30"
+          },
+          "eventId": "12528128",
+          "eventIdFl": "0pQBD8RH",
+          "finished": true,
+          "winner": "1",
+          "score": "4-2"
         },
         {
-          "eventId": "13292944",
-          "eventIdFl": "4Q4FDcRH",
-          "local": "Fredrikstad FK",
-          "visitante": "Molde FK",
-          "logoLocal": "/api/team-logo/687",
-          "logoVisitante": "/api/team-logo/661",
-          "finalizado": true,
-          "golesLocal": "4",
-          "golesVisitante": "2",
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "2.7",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.26",
-              "resultado": "ganado"
-            }
-          ]
+          "homeTeam": {
+            "id": "23957",
+            "name": "AFC Wimbledon",
+            "logoUrl": "/api/team-logo/23957"
+          },
+          "awayTeam": {
+            "id": "26",
+            "name": "Walsall",
+            "logoUrl": "/api/team-logo/26"
+          },
+          "odds": {
+            "1": "1.75",
+            "2": "3.80",
+            "X": "2.88"
+          },
+          "eventId": "13913871",
+          "eventIdFl": "n9M6D20c",
+          "finished": true,
+          "winner": "1",
+          "score": "1-0"
         },
         {
-          "eventId": "14089044",
-          "eventIdFl": "KrfHMzUa",
-          "local": "Colegiales",
-          "visitante": "Atlanta",
-          "logoLocal": "/api/team-logo/112493",
-          "logoVisitante": "/api/team-logo/53799",
-          "finalizado": true,
-          "golesLocal": "2",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "12",
-              "cuota": "1.26",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "2",
-              "cuota": "1.45",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.75",
-              "resultado": "perdido"
-            }
-          ]
+          "homeTeam": {
+            "id": "2598",
+            "name": "SV 07 Elversberg",
+            "logoUrl": "/api/team-logo/2598"
+          },
+          "awayTeam": {
+            "id": "5885",
+            "name": "1. FC Heidenheim",
+            "logoUrl": "/api/team-logo/5885"
+          },
+          "odds": {
+            "1": "2.40",
+            "2": "2.80",
+            "X": "3.40"
+          },
+          "eventId": "13869827",
+          "eventIdFl": "EgJGN7p2",
+          "finished": true,
+          "winner": "2",
+          "score": "1-2"
         }
-      ]
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "2598",
+          "name": "SV 07 Elversberg",
+          "logoUrl": "/api/team-logo/2598"
+        },
+        "awayTeam": {
+          "id": "5885",
+          "name": "1. FC Heidenheim",
+          "logoUrl": "/api/team-logo/5885"
+        },
+        "eventId": "13869827",
+        "eventIdFl": "EgJGN7p2",
+        "options": {
+          "over": {
+            "name": "+0.5 goles",
+            "odd": "1.50"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "2",
+        "score": "1-2",
+        "firstHalf": 2
+      }
+    },
+    "05-28": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "2502",
+            "name": "DC United",
+            "logoUrl": "/api/team-logo/2502"
+          },
+          "awayTeam": {
+            "id": "2511",
+            "name": "New England Revolution",
+            "logoUrl": "/api/team-logo/2511"
+          },
+          "odds": {
+            "1": "2.70",
+            "2": "2.60",
+            "X": "3.35"
+          },
+          "eventId": "13299412",
+          "eventIdFl": "bm2Dx2T1",
+          "finished": true,
+          "winner": "X",
+          "score": "1-1"
+        },
+        {
+          "homeTeam": {
+            "id": "484422",
+            "name": "Real Cundinamarca",
+            "logoUrl": "/api/team-logo/484422"
+          },
+          "awayTeam": {
+            "id": "6108",
+            "name": "Cúcuta Deportivo",
+            "logoUrl": "/api/team-logo/6108"
+          },
+          "odds": {
+            "1": "2.38",
+            "2": "3.00",
+            "X": "3.90"
+          },
+          "eventId": "13927479",
+          "eventIdFl": "IXdYBoAO",
+          "finished": true,
+          "winner": "1",
+          "score": "4-0"
+        },
+        {
+          "homeTeam": {
+            "id": "7045",
+            "name": "Herediano",
+            "logoUrl": "/api/team-logo/7045"
+          },
+          "awayTeam": {
+            "id": "6572",
+            "name": "LD Alajuelense",
+            "logoUrl": "/api/team-logo/6572"
+          },
+          "odds": {
+            "1": "2.85",
+            "2": "2.50",
+            "X": "2.88"
+          },
+          "eventId": "13932353",
+          "eventIdFl": "tWgd7j0k",
+          "finished": true,
+          "winner": "1",
+          "score": "1-0"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "1966",
+          "name": "Internacional",
+          "logoUrl": "/api/team-logo/1966"
+        },
+        "awayTeam": {
+          "id": "1955",
+          "name": "Bahia",
+          "logoUrl": "/api/team-logo/1955"
+        },
+        "eventId": "13640370",
+        "eventIdFl": "bTk72Mhc",
+        "options": {
+          "under": {
+            "name": "-1.5 goles",
+            "odd": "1.4"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "1",
+        "score": "2-1",
+        "firstHalf": 0
+      }
+    },
+    "05-30": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "22316",
+            "name": "Nosaby IF",
+            "logoUrl": "/api/team-logo/22316"
+          },
+          "awayTeam": {
+            "id": "190486",
+            "name": "Österlen FF",
+            "logoUrl": "/api/team-logo/190486"
+          },
+          "odds": {
+            "1": "3.00",
+            "2": "2.10",
+            "X": "3.60"
+          },
+          "eventId": "13384543",
+          "eventIdFl": "lEOUihmQ",
+          "finished": true,
+          "winner": "1",
+          "score": "2-1"
+        },
+        {
+          "homeTeam": {
+            "id": "213490",
+            "name": "Orsomarso",
+            "logoUrl": "/api/team-logo/213490"
+          },
+          "awayTeam": {
+            "id": "6114",
+            "name": "Envigado FC",
+            "logoUrl": "/api/team-logo/6114"
+          },
+          "odds": {
+            "1": "5.25",
+            "2": "1.70",
+            "X": "3.75"
+          },
+          "eventId": "13948750",
+          "eventIdFl": "EgcLcBSr",
+          "finished": true,
+          "winner": "2",
+          "score": "0-1"
+        },
+        {
+          "homeTeam": {
+            "id": "274287",
+            "name": "AD Iguatu",
+            "logoUrl": "/api/team-logo/274287"
+          },
+          "awayTeam": {
+            "id": "21858",
+            "name": "Maranhão AC",
+            "logoUrl": "/api/team-logo/21858"
+          },
+          "odds": {
+            "1": "2.15",
+            "2": "3.10",
+            "X": "3.00"
+          },
+          "eventId": "13557630",
+          "eventIdFl": "Sbd1XyKq",
+          "finished": true,
+          "winner": "1",
+          "score": "1-0"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "826802",
+          "name": "Fiorentina U20",
+          "logoUrl": "/api/team-logo/826802"
+        },
+        "awayTeam": {
+          "id": "826804",
+          "name": "Inter U20",
+          "logoUrl": "/api/team-logo/826804"
+        },
+        "eventId": "13948241",
+        "eventIdFl": "UJOdWJmL",
+        "options": {
+          "under": {
+            "name": "-1.5 goles",
+            "odd": "1.60"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "2",
+        "score": "0-3",
+        "firstHalf": 1
+      }
+    },
+    "05-31": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "2830",
+            "name": "Málaga",
+            "logoUrl": "/api/team-logo/2830"
+          },
+          "awayTeam": {
+            "id": "2854",
+            "name": "Burgos Club de Fútbol",
+            "logoUrl": "/api/team-logo/2854"
+          },
+          "odds": {
+            "1": "2.15",
+            "2": "3.45",
+            "X": "3.25"
+          },
+          "eventId": "12465933",
+          "eventIdFl": "ELa79bh4",
+          "finished": true,
+          "winner": "X",
+          "score": "2-2"
+        },
+        {
+          "homeTeam": {
+            "id": "167164",
+            "name": "UD Yugo Socuéllamos",
+            "logoUrl": "/api/team-logo/167164"
+          },
+          "awayTeam": {
+            "id": "263385",
+            "name": "CD Villacañas",
+            "logoUrl": "/api/team-logo/263385"
+          },
+          "odds": {
+            "1": "2.02",
+            "2": "4.20",
+            "X": "2.50"
+          },
+          "eventId": "13939943",
+          "eventIdFl": "E5TLeiU6",
+          "finished": true,
+          "winner": "2",
+          "score": "0-1"
+        },
+        {
+          "homeTeam": {
+            "id": "248679",
+            "name": "Defensores de Cambaceres",
+            "logoUrl": "/api/team-logo/248679"
+          },
+          "awayTeam": {
+            "id": "211939",
+            "name": "Central Córdoba de Rosario",
+            "logoUrl": "/api/team-logo/211939"
+          },
+          "odds": {
+            "1": "4.33",
+            "2": "1.85",
+            "X": "3.00"
+          },
+          "eventId": "13388359",
+          "eventIdFl": "YRkfkkmp",
+          "finished": true,
+          "winner": "1",
+          "score": "2-1"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "2878",
+          "name": "CP Cacereño",
+          "logoUrl": "/api/team-logo/2878"
+        },
+        "awayTeam": {
+          "id": "324661",
+          "name": "CD Estepona",
+          "logoUrl": "/api/team-logo/324661"
+        },
+        "eventId": "13917320",
+        "eventIdFl": "ERSl5gre",
+        "options": {
+          "over": {
+            "name": "+0.5 goles",
+            "odd": "1.58"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "1",
+        "score": "5-2",
+        "firstHalf": 3
+      }
+    },
+    "06-01": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "62558",
+            "name": "Eskilsminne IF",
+            "logoUrl": "/api/team-logo/62558"
+          },
+          "awayTeam": {
+            "id": "1791",
+            "name": "FC Trollhättan",
+            "logoUrl": "/api/team-logo/1791"
+          },
+          "odds": {
+            "1": "1.62",
+            "2": "4.20",
+            "X": "3.80"
+          },
+          "eventId": "13342563",
+          "eventIdFl": "S4XgDpCa",
+          "finished": true,
+          "winner": "X",
+          "score": "2-2"
+        },
+        {
+          "homeTeam": {
+            "id": "188421",
+            "name": "Bergnäsets AIK",
+            "logoUrl": "/api/team-logo/188421"
+          },
+          "awayTeam": {
+            "id": "1873",
+            "name": "Piteå IF",
+            "logoUrl": "/api/team-logo/1873"
+          },
+          "odds": {
+            "1": "5.25",
+            "2": "1.45",
+            "X": "4.20"
+          },
+          "eventId": "13493994",
+          "eventIdFl": "fJmW6PI8",
+          "finished": true,
+          "winner": "1",
+          "score": "2-1"
+        },
+        {
+          "homeTeam": {
+            "id": "1832",
+            "name": "Kiruna FF",
+            "logoUrl": "/api/team-logo/1832"
+          },
+          "awayTeam": {
+            "id": "1852",
+            "name": "IFK Luleå",
+            "logoUrl": "/api/team-logo/1852"
+          },
+          "odds": {
+            "1": "5.00",
+            "2": "1.48",
+            "X": "4.20"
+          },
+          "eventId": "13493985",
+          "eventIdFl": "6c7yordk",
+          "finished": true,
+          "winner": "1",
+          "score": "2-1"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "707",
+          "name": "Strindheim",
+          "logoUrl": "/api/team-logo/707"
+        },
+        "awayTeam": {
+          "id": "7320",
+          "name": "Grorud",
+          "logoUrl": "/api/team-logo/7320"
+        },
+        "eventId": "13335802",
+        "eventIdFl": "lhaLUpbf",
+        "options": {
+          "under": {
+            "name": "-1.5 goles",
+            "odd": "1.7"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "2",
+        "score": "0-2",
+        "firstHalf": 1
+      }
     }
   },
-  "2025-W29": {
-    "07-14": {
+  "2025-W23": {
+    "06-02": {
       "matches": [
         {
-          "eventId": "13336043",
-          "eventIdFl": "phhCC36b",
-          "local": "SK Brann II",
-          "visitante": "Jerv",
-          "logoLocal": "/api/team-logo/872",
-          "logoVisitante": "/api/team-logo/862",
-          "finalizado": true,
-          "golesLocal": "2",
-          "golesVisitante": "4",
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "1.53",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.22",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.45",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "1.33",
-              "resultado": "ganado"
-            }
-          ]
+          "homeTeam": {
+            "id": "21882",
+            "name": "Sollentuna FF",
+            "logoUrl": "/api/team-logo/21882"
+          },
+          "awayTeam": {
+            "id": "82443",
+            "name": "IFK Haninge",
+            "logoUrl": "/api/team-logo/82443"
+          },
+          "odds": {
+            "1": "2.90",
+            "2": "2.05",
+            "X": "3.45"
+          },
+          "eventId": "13548938",
+          "eventIdFl": "Aofk5ENF",
+          "finished": true,
+          "winner": "1",
+          "score": "3-2"
         },
         {
-          "eventId": "13543368",
-          "eventIdFl": "I3wa8ZhB",
-          "local": "HJS",
-          "visitante": "TPV",
-          "logoLocal": "/api/team-logo/252567",
-          "logoVisitante": "/api/team-logo/2269",
-          "finalizado": true,
-          "golesLocal": "3",
-          "golesVisitante": "3",
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "3.30",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.20",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.40",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "1.36",
-              "resultado": "ganado"
-            }
-          ]
+          "homeTeam": {
+            "id": "6103",
+            "name": "Atlético Bucaramanga",
+            "logoUrl": "/api/team-logo/6103"
+          },
+          "awayTeam": {
+            "id": "6112",
+            "name": "Deportivo Cali",
+            "logoUrl": "/api/team-logo/6112"
+          },
+          "odds": {
+            "1": "2.25",
+            "2": "3.60",
+            "X": "3.10"
+          },
+          "eventId": "13950136",
+          "eventIdFl": "K2tnwbtB",
+          "finished": true,
+          "winner": "1",
+          "score": "3-1"
         },
         {
-          "eventId": "13543369",
-          "eventIdFl": "4Ky76DNN",
-          "local": "NJS",
-          "visitante": "PPJ",
-          "logoLocal": "/api/team-logo/191717",
-          "logoVisitante": "/api/team-logo/190806",
-          "finalizado": true,
-          "golesLocal": "4",
-          "golesVisitante": "1",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "2.72",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.18",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "3.20",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "1.30",
-              "resultado": "ganado"
-            }
-          ]
-        },
-        {
-          "eventId": "14020046",
-          "eventIdFl": "h4x6GdW0",
-          "local": "Dainava Alytus",
-          "visitante": "FK Panevėžys",
-          "logoLocal": "/api/team-logo/192536",
-          "logoVisitante": "/api/team-logo/192763",
-          "finalizado": true,
-          "golesLocal": "0",
-          "golesVisitante": "3",
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "1.75",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.20",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.92",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "Under",
-              "cuota": "1.85",
-              "resultado": "perdido"
-            }
-          ]
-        },
-        {
-          "eventId": "14054674",
-          "eventIdFl": "CEttIulo",
-          "local": "FK Csíkszereda Miercurea Ciuc",
-          "visitante": "FC Dinamo București",
-          "logoLocal": "/api/team-logo/283972",
-          "logoVisitante": "/api/team-logo/3292",
-          "finalizado": true,
-          "golesLocal": "2",
-          "golesVisitante": "2",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "3.60",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.36",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.90",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "Under",
-              "cuota": "1.60",
-              "resultado": "perdido"
-            }
-          ]
-        },
-        {
-          "eventId": "14069363",
-          "eventIdFl": "pIqXj8v8",
-          "local": "Deportivo Riestra",
-          "visitante": "Lanús",
-          "logoLocal": "/api/team-logo/189723",
-          "logoVisitante": "/api/team-logo/3218",
-          "finalizado": true,
-          "golesLocal": "1",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "X",
-              "cuota": "2.70",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "1X",
-              "cuota": "1.54",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.47",
-              "resultado": "pendiente"
-            },
-            {
-              "tipo": "Under",
-              "cuota": "1.30",
-              "resultado": "ganado"
-            }
-          ]
-        },
-        {
-          "eventId": "14069356",
-          "eventIdFl": "6mEIoD2S",
-          "local": "Banfield",
-          "visitante": "Defensa y Justicia",
-          "logoLocal": "/api/team-logo/3219",
-          "logoVisitante": "/api/team-logo/36839",
-          "finalizado": true,
-          "golesLocal": "0",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "2.95",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "X2",
-              "cuota": "1.48",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.45",
-              "resultado": "pendiente"
-            },
-            {
-              "tipo": "Under",
-              "cuota": "1.50",
-              "resultado": "ganado"
-            }
-          ]
-        },
-        {
-          "eventId": "14044780",
-          "eventIdFl": "hdQ855ke",
-          "local": "Nacional Potosí",
-          "visitante": "CD Totora Real Oruro",
-          "logoLocal": "/api/team-logo/47700",
-          "logoVisitante": "/api/team-logo/423186",
-          "finalizado": true,
-          "golesLocal": "2",
-          "golesVisitante": "3",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "1.48",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "1X",
-              "cuota": "1.15",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.62",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "1.44",
-              "resultado": "ganado"
-            }
-          ]
-        },
-        {
-          "eventId": "13472794",
-          "eventIdFl": "OOzVPO7C",
-          "local": "Juventude",
-          "visitante": "Sport Recife",
-          "logoLocal": "/api/team-logo/1980",
-          "logoVisitante": "/api/team-logo/1959",
-          "finalizado": true,
-          "golesLocal": "2",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "2.62",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.36",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.80",
-              "resultado": "pendiente"
-            }
-          ]
-        },
-        {
-          "eventId": "14069352",
-          "eventIdFl": "jFt7TDtp",
-          "local": "Club Atlético Unión de Santa Fe",
-          "visitante": "Estudiantes de La Plata",
-          "logoLocal": "/api/team-logo/3204",
-          "logoVisitante": "/api/team-logo/3206",
-          "finalizado": true,
-          "golesLocal": "1",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "2.62",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.36",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.70",
-              "resultado": "pendiente"
-            }
-          ]
-        },
-        {
-          "eventId": "14094762",
-          "eventIdFl": "pf1hh2d2",
-          "local": "Botafogo-SP",
-          "visitante": "Volta Redonda",
-          "logoLocal": "/api/team-logo/1979",
-          "logoVisitante": "/api/team-logo/6982",
-          "finalizado": true,
-          "golesLocal": "0",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "2.38",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "1X",
-              "cuota": "1.30",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.50",
-              "resultado": "pendiente"
-            }
-          ]
+          "homeTeam": {
+            "id": "6113",
+            "name": "Deportivo Pasto",
+            "logoUrl": "/api/team-logo/6113"
+          },
+          "awayTeam": {
+            "id": "89374",
+            "name": "Llaneros FC",
+            "logoUrl": "/api/team-logo/89374"
+          },
+          "odds": {
+            "1": "1.10",
+            "2": "46.00",
+            "X": "9.50"
+          },
+          "eventId": "13950143",
+          "eventIdFl": "tIUfyxBN",
+          "finished": true,
+          "winner": "1",
+          "score": "3-0"
         }
-      ]
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "191717",
+          "name": "NJS",
+          "logoUrl": "/api/team-logo/191717"
+        },
+        "awayTeam": {
+          "id": "252567",
+          "name": "HJS",
+          "logoUrl": "/api/team-logo/252567"
+        },
+        "eventId": "13543339",
+        "eventIdFl": "A16q9CrT",
+        "options": {
+          "under": {
+            "name": "-1.5 goles",
+            "odd": "1.85"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "X",
+        "score": "1-1",
+        "firstHalf": 0
+      }
     },
-    "07-15": {
+    "06-03": {
       "matches": [
         {
-          "eventId": "13979071",
-          "eventIdFl": "Q1jI67Ri",
-          "local": "Dumbarton",
-          "visitante": "Stirling Albion",
-          "logoLocal": "/api/team-logo/2377",
-          "logoVisitante": "/api/team-logo/2384",
-          "finalizado": true,
-          "golesLocal": "1",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "2.26",
-              "resultado": "ganado"
-            }
-          ]
+          "homeTeam": {
+            "id": "22237",
+            "name": "IF Karlstad Fotboll",
+            "logoUrl": "/api/team-logo/22237"
+          },
+          "awayTeam": {
+            "id": "22370",
+            "name": "Örebro Syrianska BK",
+            "logoUrl": "/api/team-logo/22370"
+          },
+          "odds": {
+            "1": "1.30",
+            "2": "9.00",
+            "X": "5.50"
+          },
+          "eventId": "13680739",
+          "eventIdFl": "UHemogWq",
+          "finished": true,
+          "winner": "X",
+          "score": "0-0"
         },
         {
-          "eventId": "14023690",
-          "eventIdFl": "hh2qIF9C",
-          "local": "Breidablik Kópavogur",
-          "visitante": "KF Egnatia",
-          "logoLocal": "/api/team-logo/1901",
-          "logoVisitante": "/api/team-logo/264619",
-          "finalizado": true,
-          "golesLocal": "5",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "1.64",
-              "resultado": "ganado"
-            }
-          ]
+          "homeTeam": {
+            "id": "1850",
+            "name": "Friska Viljor FC",
+            "logoUrl": "/api/team-logo/1850"
+          },
+          "awayTeam": {
+            "id": "419247",
+            "name": "Lucksta IF",
+            "logoUrl": "/api/team-logo/419247"
+          },
+          "odds": {
+            "1": "1.57",
+            "2": "4.20",
+            "X": "4.20"
+          },
+          "eventId": "13702119",
+          "eventIdFl": "6kiKGfmQ",
+          "finished": true,
+          "winner": "2",
+          "score": "1-2"
         },
         {
-          "eventId": "13543620",
-          "eventIdFl": "fsnCctG7",
-          "local": "Chacaritas FC",
-          "visitante": "Leones del Norte",
-          "logoLocal": "/api/team-logo/339976",
-          "logoVisitante": "/api/team-logo/388234",
-          "finalizado": true,
-          "golesLocal": "2",
-          "golesVisitante": "1",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "5.00",
-              "resultado": "ganado"
-            }
-          ]
-        },
-        {
-          "eventId": "13616226",
-          "eventIdFl": "nRuw0gbB",
-          "local": "Cuiabá",
-          "visitante": "Amazonas FC",
-          "logoLocal": "/api/team-logo/49202",
-          "logoVisitante": "/api/team-logo/336664",
-          "finalizado": true,
-          "golesLocal": "3",
-          "golesVisitante": "1",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "1.70",
-              "resultado": "ganado"
-            }
-          ]
-        },
-        {
-          "eventId": "13955157",
-          "eventIdFl": "bFlSwQS6",
-          "local": "Central Córdoba",
-          "visitante": "Cerro Largo",
-          "logoLocal": "/api/team-logo/65676",
-          "logoVisitante": "/api/team-logo/25009",
-          "finalizado": true,
-          "golesLocal": "0",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "1.45",
-              "resultado": "perdido"
-            }
-          ]
-        },
-        {
-          "eventId": "13955160",
-          "eventIdFl": "K810PQDD",
-          "local": "Bahia",
-          "visitante": "América de Cali",
-          "logoLocal": "/api/team-logo/1955",
-          "logoVisitante": "/api/team-logo/6102",
-          "finalizado": true,
-          "golesLocal": "0",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "1.57",
-              "resultado": "perdido"
-            }
-          ]
+          "homeTeam": {
+            "id": "89352",
+            "name": "Bogotá FC",
+            "logoUrl": "/api/team-logo/89352"
+          },
+          "awayTeam": {
+            "id": "89362",
+            "name": "Leones FC",
+            "logoUrl": "/api/team-logo/89362"
+          },
+          "odds": {
+            "1": "2.10",
+            "2": "3.55",
+            "X": "3.55"
+          },
+          "eventId": "13950139",
+          "eventIdFl": "Qu3DgJQi",
+          "finished": true,
+          "winner": "X",
+          "score": "0-0"
         }
-      ]
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "420869",
+          "name": "Lokomotivi Tbilisi II",
+          "logoUrl": "/api/team-logo/420869"
+        },
+        "awayTeam": {
+          "id": "5196",
+          "name": "WIT Georgia",
+          "logoUrl": "/api/team-logo/5196"
+        },
+        "eventId": "13417371",
+        "eventIdFl": "WhIrgeLE",
+        "options": {
+          "over": {
+            "name": "+0.5 goles",
+            "odd": "1.50"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "2",
+        "score": "1-2",
+        "firstHalf": 2
+      }
     },
-    "07-16": {
+    "06-04": {
       "matches": [
         {
-          "eventId": "13543466",
-          "eventIdFl": "4tsmgPUr",
-          "local": "GBK Kokkola",
-          "visitante": "JBK Pietarsaari",
-          "logoLocal": "/api/team-logo/2295",
-          "logoVisitante": "/api/team-logo/22387",
-          "finalizado": false,
-          "golesLocal": null,
-          "golesVisitante": null,
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "2.10"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.18"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "1.36"
-            }
-          ]
+          "homeTeam": {
+            "id": "262760",
+            "name": "IFK Stocksund",
+            "logoUrl": "/api/team-logo/262760"
+          },
+          "awayTeam": {
+            "id": "377598",
+            "name": "Nordic United FC",
+            "logoUrl": "/api/team-logo/377598"
+          },
+          "odds": {
+            "1": "4.75",
+            "2": "1.48",
+            "X": "4.33"
+          },
+          "eventId": "13680740",
+          "eventIdFl": "2VgeqX0d",
+          "finished": true,
+          "winner": "1",
+          "score": "1-0"
         },
         {
-          "eventId": "13801569",
-          "eventIdFl": "tl5ebinQ",
-          "local": "Fredrikstad FK",
-          "visitante": "Bodø/Glimt",
-          "logoLocal": "/api/team-logo/687",
-          "logoVisitante": "/api/team-logo/656",
-          "finalizado": false,
-          "golesLocal": null,
-          "golesVisitante": null,
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "1.61"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.20"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "1.61"
-            }
-          ]
+          "homeTeam": {
+            "id": "1896",
+            "name": "Fylkir Reykjavík",
+            "logoUrl": "/api/team-logo/1896"
+          },
+          "awayTeam": {
+            "id": "36057",
+            "name": "Leiknir Reykjavík",
+            "logoUrl": "/api/team-logo/36057"
+          },
+          "odds": {
+            "1": "1.48",
+            "2": "5.25",
+            "X": "4.50"
+          },
+          "eventId": "13306158",
+          "eventIdFl": "nyeap0md",
+          "finished": true,
+          "winner": "2",
+          "score": "1-2"
         },
         {
-          "eventId": "14106318",
-          "eventIdFl": "tnKE1HIE",
-          "local": "Santiago Wanderers",
-          "visitante": "Deportes La Serena",
-          "logoLocal": "/api/team-logo/3150",
-          "logoVisitante": "/api/team-logo/5031",
-          "finalizado": false,
-          "golesLocal": null,
-          "golesVisitante": null,
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "2.85"
-            },
-            {
-              "tipo": "X2",
-              "cuota": "1.22"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "2.05"
-            }
-          ]
-        },
-        {
-          "eventId": "13378542",
-          "eventIdFl": "EBCMdRak",
-          "local": "Jippo Joensuu",
-          "visitante": "EIF",
-          "logoLocal": "/api/team-logo/2263",
-          "logoVisitante": "/api/team-logo/22372",
-          "finalizado": false,
-          "golesLocal": null,
-          "golesVisitante": null,
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "2.60"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.42"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "1.85"
-            }
-          ]
-        },
-        {
-          "eventId": "13543619",
-          "eventIdFl": "AkUbLq8E",
-          "local": "CA Vinotinto",
-          "visitante": "22 de Julio",
-          "logoLocal": "/api/team-logo/1078581",
-          "logoVisitante": "/api/team-logo/1078582",
-          "finalizado": false,
-          "golesLocal": null,
-          "golesVisitante": null,
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "1.33"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.25"
-            },
-            {
-              "tipo": "Under",
-              "cuota": "3.50"
-            }
-          ]
+          "homeTeam": {
+            "id": "283759",
+            "name": "UMF Njarðvík",
+            "logoUrl": "/api/team-logo/283759"
+          },
+          "awayTeam": {
+            "id": "5374",
+            "name": "Fjölnir Reykjavík",
+            "logoUrl": "/api/team-logo/5374"
+          },
+          "odds": {
+            "1": "1.35",
+            "2": "6.50",
+            "X": "5.00"
+          },
+          "eventId": "13306157",
+          "eventIdFl": "zcyf6sAF",
+          "finished": true,
+          "winner": "X",
+          "score": "1-1"
         }
-      ]
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "504899",
+          "name": "Alianza Valledupar FC",
+          "logoUrl": "/api/team-logo/504899"
+        },
+        "awayTeam": {
+          "id": "48244",
+          "name": "Rionegro Águilas Doradas",
+          "logoUrl": "/api/team-logo/48244"
+        },
+        "eventId": "13950137",
+        "eventIdFl": "fLfUkyQG",
+        "options": {
+          "over": {
+            "name": "+0.5 goles",
+            "odd": "1.55"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "1",
+        "score": "4-0",
+        "firstHalf": 3
+      }
+    },
+    "06-05": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "5161",
+            "name": "Bahrain",
+            "logoUrl": "/api/team-logo/5161"
+          },
+          "awayTeam": {
+            "id": "4834",
+            "name": "Saudi Arabia",
+            "logoUrl": "/api/team-logo/4834"
+          },
+          "odds": {
+            "1": "4.00",
+            "2": "2.00",
+            "X": "3.10"
+          },
+          "eventId": "12475013",
+          "eventIdFl": "0YJcfEdT",
+          "finished": true,
+          "winner": "2",
+          "score": "0-2"
+        },
+        {
+          "homeTeam": {
+            "id": "5368",
+            "name": "Kuwait",
+            "logoUrl": "/api/team-logo/5368"
+          },
+          "awayTeam": {
+            "id": "4788",
+            "name": "Palestine",
+            "logoUrl": "/api/team-logo/4788"
+          },
+          "odds": {
+            "1": "3.30",
+            "2": "2.25",
+            "X": "3.10"
+          },
+          "eventId": "12475020",
+          "eventIdFl": "xMT97rEd",
+          "finished": true,
+          "winner": "2",
+          "score": "0-2"
+        },
+        {
+          "homeTeam": {
+            "id": "370746",
+            "name": "Atlético Nacional Medellín",
+            "logoUrl": "/api/team-logo/370746"
+          },
+          "awayTeam": {
+            "id": "268093",
+            "name": "Independiente Santa Fé",
+            "logoUrl": "/api/team-logo/268093"
+          },
+          "odds": {
+            "1": "1.85",
+            "2": "3.85",
+            "X": "3.30"
+          },
+          "eventId": "13969267",
+          "eventIdFl": "jXPFUdWO",
+          "finished": true,
+          "winner": "X",
+          "score": "1-1"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "4743",
+          "name": "Belarus",
+          "logoUrl": "/api/team-logo/4743"
+        },
+        "awayTeam": {
+          "id": "4772",
+          "name": "Kazakhstan",
+          "logoUrl": "/api/team-logo/4772"
+        },
+        "eventId": "13857472",
+        "eventIdFl": "pj3rzsMO",
+        "options": {
+          "over": {
+            "name": "+0.5 goles",
+            "odd": "1.55"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "1",
+        "score": "4-1",
+        "firstHalf": 2
+      }
+    },
+    "06-07": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "1800",
+            "name": "IK Sleipner",
+            "logoUrl": "/api/team-logo/1800"
+          },
+          "awayTeam": {
+            "id": "5290",
+            "name": "Enskede IK",
+            "logoUrl": "/api/team-logo/5290"
+          },
+          "odds": {
+            "1": "2.60",
+            "2": "2.20",
+            "X": "3.60"
+          },
+          "eventId": "13494088",
+          "eventIdFl": "U5RkrbFF",
+          "finished": true,
+          "winner": "X",
+          "score": "1-1"
+        },
+        {
+          "homeTeam": {
+            "id": "313141",
+            "name": "Umeå FC Akademi",
+            "logoUrl": "/api/team-logo/313141"
+          },
+          "awayTeam": {
+            "id": "1850",
+            "name": "Friska Viljor FC",
+            "logoUrl": "/api/team-logo/1850"
+          },
+          "odds": {
+            "1": "1.42",
+            "2": "5.00",
+            "X": "4.75"
+          },
+          "eventId": "13494008",
+          "eventIdFl": "Y5K77jAC",
+          "finished": true,
+          "winner": "2",
+          "score": "2-3"
+        },
+        {
+          "homeTeam": {
+            "id": "22341",
+            "name": "Skara FC",
+            "logoUrl": "/api/team-logo/22341"
+          },
+          "awayTeam": {
+            "id": "7066",
+            "name": "Ahlafors IF",
+            "logoUrl": "/api/team-logo/7066"
+          },
+          "odds": {
+            "1": "4.50",
+            "2": "1.55",
+            "X": "3.95"
+          },
+          "eventId": "13493889",
+          "eventIdFl": "KdJq3Hdt",
+          "finished": true,
+          "winner": "1",
+          "score": "1-0"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "22676",
+          "name": "Chile U20",
+          "logoUrl": "/api/team-logo/22676"
+        },
+        "awayTeam": {
+          "id": "7550",
+          "name": "New Zealand U20",
+          "logoUrl": "/api/team-logo/7550"
+        },
+        "eventId": "13978404",
+        "eventIdFl": "rFKOvJ25",
+        "options": {
+          "under": {
+            "name": "-1.5 goles",
+            "odd": "1.60"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "1",
+        "score": "2-1",
+        "firstHalf": 1
+      }
+    },
+    "06-08": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "69728",
+            "name": "Bollstanäs SK",
+            "logoUrl": "/api/team-logo/69728"
+          },
+          "awayTeam": {
+            "id": "1881",
+            "name": "Sunnanå SK",
+            "logoUrl": "/api/team-logo/1881"
+          },
+          "odds": {
+            "1": "1.67",
+            "2": "3.95",
+            "X": "3.70"
+          },
+          "eventId": "13285066",
+          "eventIdFl": "8Ykc3ZUa",
+          "finished": true,
+          "winner": "X",
+          "score": "0-0"
+        },
+        {
+          "homeTeam": {
+            "id": "330865",
+            "name": "Independiente Medellin",
+            "logoUrl": "/api/team-logo/330865"
+          },
+          "awayTeam": {
+            "id": "370746",
+            "name": "Atlético Nacional Medellín",
+            "logoUrl": "/api/team-logo/370746"
+          },
+          "odds": {
+            "1": "3.45",
+            "2": "2.05",
+            "X": "3.10"
+          },
+          "eventId": "13512029",
+          "eventIdFl": "ObTCoRNF",
+          "finished": true,
+          "winner": "X",
+          "score": "1-1"
+        },
+        {
+          "homeTeam": {
+            "id": "6106",
+            "name": "Atlético Nacional",
+            "logoUrl": "/api/team-logo/6106"
+          },
+          "awayTeam": {
+            "id": "6116",
+            "name": "Independiente Santa Fe",
+            "logoUrl": "/api/team-logo/6116"
+          },
+          "odds": {
+            "1": "1.42",
+            "2": "8.00",
+            "X": "4.75"
+          },
+          "eventId": "13969995",
+          "eventIdFl": "tKm2jXig",
+          "finished": true,
+          "winner": "2",
+          "score": "1-2"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "4704",
+          "name": "Portugal",
+          "logoUrl": "/api/team-logo/4704"
+        },
+        "awayTeam": {
+          "id": "4698",
+          "name": "Spain",
+          "logoUrl": "/api/team-logo/4698"
+        },
+        "eventId": "13157877",
+        "eventIdFl": "d4wyvbYr",
+        "options": {
+          "over": {
+            "name": "+0.5 goles",
+            "odd": "1.40"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "X",
+        "score": "2-2",
+        "firstHalf": 3
+      }
+    }
+  },
+  "2025-W26": {
+    "06-25": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "1161",
+            "name": "Rosenborg BK",
+            "logoUrl": "/api/team-logo/1161"
+          },
+          "awayTeam": {
+            "id": "822",
+            "name": "Sarpsborg 08",
+            "logoUrl": "/api/team-logo/822"
+          },
+          "odds": {
+            "1": "1.80",
+            "2": "4.00",
+            "X": "3.80"
+          },
+          "eventId": "13928936",
+          "eventIdFl": "rw7fo6rf",
+          "finished": true,
+          "winner": "X",
+          "score": "1-1"
+        },
+        {
+          "homeTeam": {
+            "id": "1162",
+            "name": "Stabæk Fotball",
+            "logoUrl": "/api/team-logo/1162"
+          },
+          "awayTeam": {
+            "id": "957",
+            "name": "Kristiansund BK",
+            "logoUrl": "/api/team-logo/957"
+          },
+          "odds": {
+            "1": "3.20",
+            "2": "1.95",
+            "X": "3.85"
+          },
+          "eventId": "13928937",
+          "eventIdFl": "j3A2qpD6",
+          "finished": true,
+          "winner": "X",
+          "score": "2-2"
+        },
+        {
+          "homeTeam": {
+            "id": "22341",
+            "name": "Skara FC",
+            "logoUrl": "/api/team-logo/22341"
+          },
+          "awayTeam": {
+            "id": "22287",
+            "name": "IFK Kumla FK",
+            "logoUrl": "/api/team-logo/22287"
+          },
+          "odds": {
+            "1": "2.60",
+            "2": "2.20",
+            "X": "3.55"
+          },
+          "eventId": "13493959",
+          "eventIdFl": "lCqEVcx1",
+          "finished": true,
+          "winner": "2",
+          "score": "1-2"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "677",
+          "name": "Aalesunds FK",
+          "logoUrl": "/api/team-logo/677"
+        },
+        "awayTeam": {
+          "id": "1164",
+          "name": "Viking FK",
+          "logoUrl": "/api/team-logo/1164"
+        },
+        "eventId": "13928934",
+        "eventIdFl": "xbFMlukn",
+        "options": {
+          "under": {
+            "name": "-1.5 goles",
+            "odd": "1.65"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "2",
+        "score": "0-1",
+        "firstHalf": 0
+      }
+    },
+    "06-26": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "274937",
+            "name": "Brinje Grosuplje",
+            "logoUrl": "/api/team-logo/274937"
+          },
+          "awayTeam": {
+            "id": "2417",
+            "name": "FC Koper",
+            "logoUrl": "/api/team-logo/2417"
+          },
+          "odds": {
+            "1": "15.00",
+            "2": "1.10",
+            "X": "7.00"
+          },
+          "eventId": "14047613",
+          "eventIdFl": "C2bV7Xb4",
+          "finished": true,
+          "winner": "1",
+          "score": "1-0"
+        },
+        {
+          "homeTeam": {
+            "id": "1820",
+            "name": "Husqvarna FF",
+            "logoUrl": "/api/team-logo/1820"
+          },
+          "awayTeam": {
+            "id": "1829",
+            "name": "Lunds BK",
+            "logoUrl": "/api/team-logo/1829"
+          },
+          "odds": {
+            "1": "4.00",
+            "2": "1.65",
+            "X": "3.70"
+          },
+          "eventId": "13342595",
+          "eventIdFl": "0G8sfHCU",
+          "finished": true,
+          "winner": "1",
+          "score": "2-1"
+        },
+        {
+          "homeTeam": {
+            "id": "2687",
+            "name": "Juventus",
+            "logoUrl": "/api/team-logo/2687"
+          },
+          "awayTeam": {
+            "id": "17",
+            "name": "Manchester City",
+            "logoUrl": "/api/team-logo/17"
+          },
+          "odds": {
+            "1": "5.00",
+            "2": "1.80",
+            "X": "3.80"
+          },
+          "eventId": "13200232",
+          "eventIdFl": "dzEgdp5F",
+          "finished": true,
+          "winner": "2",
+          "score": "2-5"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "36081",
+          "name": "FS Jelgava",
+          "logoUrl": "/api/team-logo/36081"
+        },
+        "awayTeam": {
+          "id": "68718",
+          "name": "RFS",
+          "logoUrl": "/api/team-logo/68718"
+        },
+        "eventId": "13494690",
+        "eventIdFl": "lKyzfvtn",
+        "options": {
+          "under": {
+            "name": "-1.5 goles",
+            "odd": "1.70"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "2",
+        "score": "0-1",
+        "firstHalf": 0
+      }
+    },
+    "06-27": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "164372",
+            "name": "LASK Amateure OÖ",
+            "logoUrl": "/api/team-logo/164372"
+          },
+          "awayTeam": {
+            "id": "291621",
+            "name": "FC Marchfeld Donauauen",
+            "logoUrl": "/api/team-logo/291621"
+          },
+          "odds": {
+            "1": "3.10",
+            "2": "1.95",
+            "X": "3.65"
+          },
+          "eventId": "14030668",
+          "eventIdFl": "6a4vLPgR",
+          "finished": true,
+          "winner": "1",
+          "score": "5-2"
+        },
+        {
+          "homeTeam": {
+            "id": "2442",
+            "name": "FC St. Gallen 1879",
+            "logoUrl": "/api/team-logo/2442"
+          },
+          "awayTeam": {
+            "id": "25220",
+            "name": "SC Brühl SG",
+            "logoUrl": "/api/team-logo/25220"
+          },
+          "odds": {
+            "1": "1.10",
+            "2": "19.00",
+            "X": "9.00"
+          },
+          "eventId": "14030678",
+          "eventIdFl": "UmpBrSnn",
+          "finished": true,
+          "winner": "X",
+          "score": "4-4"
+        },
+        {
+          "homeTeam": {
+            "id": "515943",
+            "name": "AE Araçatuba",
+            "logoUrl": "/api/team-logo/515943"
+          },
+          "awayTeam": {
+            "id": "6962",
+            "name": "EC Noroeste",
+            "logoUrl": "/api/team-logo/6962"
+          },
+          "odds": {
+            "1": "4.00",
+            "2": "1.85",
+            "X": "3.10"
+          },
+          "eventId": "13878902",
+          "eventIdFl": "S0sRI8Xq",
+          "finished": true,
+          "winner": "1",
+          "score": "2-0"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "404316",
+          "name": "Pastoreo FC",
+          "logoUrl": "/api/team-logo/404316"
+        },
+        "awayTeam": {
+          "id": "90962",
+          "name": "Deportivo Santaní",
+          "logoUrl": "/api/team-logo/90962"
+        },
+        "eventId": "14044437",
+        "eventIdFl": "j727GRZ0",
+        "options": {
+          "over": {
+            "name": "+0.5 goles",
+            "odd": "1.45"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "1",
+        "score": "2-1",
+        "firstHalf": 3
+      }
+    },
+    "06-28": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "295048",
+            "name": "Fluminense-SC",
+            "logoUrl": "/api/team-logo/295048"
+          },
+          "awayTeam": {
+            "id": "229353",
+            "name": "Tubarão",
+            "logoUrl": "/api/team-logo/229353"
+          },
+          "odds": {
+            "1": "5.80",
+            "2": "1.37",
+            "X": "4.00"
+          },
+          "eventId": "13874949",
+          "eventIdFl": "W0z9TTPc",
+          "finished": true,
+          "winner": "1",
+          "score": "3-1"
+        },
+        {
+          "homeTeam": {
+            "id": "396625",
+            "name": "San Antonio Bulo-Bulo",
+            "logoUrl": "/api/team-logo/396625"
+          },
+          "awayTeam": {
+            "id": "505268",
+            "name": "GV San José",
+            "logoUrl": "/api/team-logo/505268"
+          },
+          "odds": {
+            "1": "1.60",
+            "2": "4.90",
+            "X": "4.25"
+          },
+          "eventId": "14044358",
+          "eventIdFl": "IHIoy3vm",
+          "finished": true,
+          "winner": "1",
+          "score": "2-0"
+        },
+        {
+          "homeTeam": {
+            "id": "35279",
+            "name": "Ceilândia",
+            "logoUrl": "/api/team-logo/35279"
+          },
+          "awayTeam": {
+            "id": "34005",
+            "name": "Mixto",
+            "logoUrl": "/api/team-logo/34005"
+          },
+          "odds": {
+            "1": "1.82",
+            "2": "3.50",
+            "X": "3.40"
+          },
+          "eventId": "13557742",
+          "eventIdFl": "MVUTanzo",
+          "finished": true,
+          "winner": "1",
+          "score": "2-1"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "3229",
+          "name": "Defensor Sporting",
+          "logoUrl": "/api/team-logo/3229"
+        },
+        "awayTeam": {
+          "id": "3235",
+          "name": "Plaza Colonia",
+          "logoUrl": "/api/team-logo/3235"
+        },
+        "eventId": "14044911",
+        "eventIdFl": "YZLKNCvH",
+        "options": {
+          "over": {
+            "name": "+0.5 goles",
+            "odd": "1.45"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "X",
+        "score": "1-1",
+        "firstHalf": 2
+      }
+    }
+  },
+  "2025-W27": {
+    "07-04": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "35076",
+            "name": "Patro Eisden Maasmechelen",
+            "logoUrl": "/api/team-logo/35076"
+          },
+          "awayTeam": {
+            "id": "6188",
+            "name": "Bonner SC",
+            "logoUrl": "/api/team-logo/6188"
+          },
+          "odds": {
+            "1": "1.53",
+            "2": "4.69",
+            "X": "4.30"
+          },
+          "eventId": "14070076",
+          "eventIdFl": "6yYGY7C4",
+          "finished": true,
+          "winner": "2",
+          "score": "0-3"
+        },
+        {
+          "homeTeam": {
+            "id": "34725",
+            "name": "Chippenham Town",
+            "logoUrl": "/api/team-logo/34725"
+          },
+          "awayTeam": {
+            "id": "76",
+            "name": "Bristol Rovers",
+            "logoUrl": "/api/team-logo/76"
+          },
+          "odds": {
+            "1": "5.95",
+            "2": "1.51",
+            "X": "4.50"
+          },
+          "eventId": "13987814",
+          "eventIdFl": "Spe1O2hn",
+          "finished": true,
+          "winner": "2",
+          "score": "1-2"
+        },
+        {
+          "homeTeam": {
+            "id": "36057",
+            "name": "Leiknir Reykjavík",
+            "logoUrl": "/api/team-logo/36057"
+          },
+          "awayTeam": {
+            "id": "5374",
+            "name": "Fjölnir Reykjavík",
+            "logoUrl": "/api/team-logo/5374"
+          },
+          "odds": {
+            "1": "1.61",
+            "2": "4.24",
+            "X": "4.15"
+          },
+          "eventId": "13306191",
+          "eventIdFl": "WIqBhIt9",
+          "finished": true,
+          "winner": "2",
+          "score": "0-1"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "422627",
+          "name": "SC Freital",
+          "logoUrl": "/api/team-logo/422627"
+        },
+        "awayTeam": {
+          "id": "2620",
+          "name": "FSV Zwickau",
+          "logoUrl": "/api/team-logo/2620"
+        },
+        "eventId": "14070070",
+        "eventIdFl": "EuGjuhY1",
+        "options": {
+          "over": {
+            "name": "+1.5 goles",
+            "odd": "1.95"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "2",
+        "score": "1-2",
+        "firstHalf": 2
+      }
+    }
+  },
+  "2025-W28": {
+    "07-08": {
+      "matches": [
+        {
+          "homeTeam": {
+            "id": "2416",
+            "name": "NK Olimpija Ljubljana",
+            "logoUrl": "/api/team-logo/2416"
+          },
+          "awayTeam": {
+            "id": "5172",
+            "name": "Kairat Almaty",
+            "logoUrl": "/api/team-logo/5172"
+          },
+          "odds": {
+            "1": "1.85",
+            "2": "3.90",
+            "X": "3.25"
+          },
+          "eventId": "14020901",
+          "eventIdFl": "4STeRJnQ",
+          "finished": true,
+          "winner": "X",
+          "score": "1-1"
+        },
+        {
+          "homeTeam": {
+            "id": "4921",
+            "name": "The New Saints",
+            "logoUrl": "/api/team-logo/4921"
+          },
+          "awayTeam": {
+            "id": "5413",
+            "name": "KF Shkëndija",
+            "logoUrl": "/api/team-logo/5413"
+          },
+          "odds": {
+            "1": "1.91",
+            "2": "3.80",
+            "X": "3.30"
+          },
+          "eventId": "14020913",
+          "eventIdFl": "AZTqtMde",
+          "finished": true,
+          "winner": "X",
+          "score": "0-0"
+        },
+        {
+          "homeTeam": {
+            "id": "126312",
+            "name": "St Joseph's FC",
+            "logoUrl": "/api/team-logo/126312"
+          },
+          "awayTeam": {
+            "id": "5181",
+            "name": "Cliftonville FC",
+            "logoUrl": "/api/team-logo/5181"
+          },
+          "odds": {
+            "1": "1.90",
+            "2": "3.65",
+            "X": "3.40"
+          },
+          "eventId": "14021247",
+          "eventIdFl": "C0FzpT8j",
+          "finished": true,
+          "winner": "X",
+          "score": "2-2"
+        }
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "1961",
+          "name": "Fluminense",
+          "logoUrl": "/api/team-logo/1961"
+        },
+        "awayTeam": {
+          "id": "38",
+          "name": "Chelsea",
+          "logoUrl": "/api/team-logo/38"
+        },
+        "eventId": "13385904",
+        "eventIdFl": "reEVCHGk",
+        "options": {
+          "over": {
+            "name": "+0.5 goles",
+            "odd": "1.45"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "2",
+        "score": "0-2",
+        "firstHalf": 1
+      }
     }
   },
   "2025-W30": {
     "07-26": {
       "matches": [
         {
-          "eventId": "13482253",
-          "eventIdFl": "YBm2PlJM",
-          "local": "Blaublitz Akita",
-          "visitante": "Roasso Kumamoto",
-          "logoLocal": "/api/team-logo/44523",
-          "logoVisitante": "/api/team-logo/21903",
-          "finalizado": true,
-          "golesLocal": "3",
-          "golesVisitante": "2",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "3.00",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.36",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.91",
-              "resultado": "ganado"
-            }
-          ]
+          "homeTeam": {
+            "id": "2416",
+            "name": "NK Olimpija Ljubljana",
+            "logoUrl": "/api/team-logo/2416"
+          },
+          "awayTeam": {
+            "id": "5172",
+            "name": "Kairat Almaty",
+            "logoUrl": "/api/team-logo/5172"
+          },
+          "odds": {
+            "1": "1.85",
+            "2": "3.90",
+            "X": "3.25"
+          },
+          "eventId": "14020901",
+          "eventIdFl": "4STeRJnQ",
+          "finished": true,
+          "winner": "X",
+          "score": "1-1"
         },
         {
-          "eventId": "13292944",
-          "eventIdFl": "4Q4FDcRH",
-          "local": "Fredrikstad FK",
-          "visitante": "Molde FK",
-          "logoLocal": "/api/team-logo/687",
-          "logoVisitante": "/api/team-logo/661",
-          "finalizado": true,
-          "golesLocal": "4",
-          "golesVisitante": "2",
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "2.7",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.26",
-              "resultado": "ganado"
-            }
-          ]
+          "homeTeam": {
+            "id": "4921",
+            "name": "The New Saints",
+            "logoUrl": "/api/team-logo/4921"
+          },
+          "awayTeam": {
+            "id": "5413",
+            "name": "KF Shkëndija",
+            "logoUrl": "/api/team-logo/5413"
+          },
+          "odds": {
+            "1": "1.91",
+            "2": "3.80",
+            "X": "3.30"
+          },
+          "eventId": "14020913",
+          "eventIdFl": "AZTqtMde",
+          "finished": true,
+          "winner": "X",
+          "score": "0-0"
         },
         {
-          "eventId": "14089044",
-          "eventIdFl": "KrfHMzUa",
-          "local": "Colegiales",
-          "visitante": "Atlanta",
-          "logoLocal": "/api/team-logo/112493",
-          "logoVisitante": "/api/team-logo/53799",
-          "finalizado": true,
-          "golesLocal": "2",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "12",
-              "cuota": "1.26",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "2",
-              "cuota": "1.45",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.75",
-              "resultado": "perdido"
-            }
-          ]
+          "homeTeam": {
+            "id": "126312",
+            "name": "St Joseph's FC",
+            "logoUrl": "/api/team-logo/126312"
+          },
+          "awayTeam": {
+            "id": "5181",
+            "name": "Cliftonville FC",
+            "logoUrl": "/api/team-logo/5181"
+          },
+          "odds": {
+            "1": "1.90",
+            "2": "3.65",
+            "X": "3.40"
+          },
+          "eventId": "14021247",
+          "eventIdFl": "C0FzpT8j",
+          "finished": true,
+          "winner": "X",
+          "score": "2-2"
         }
-      ]
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "1961",
+          "name": "Fluminense",
+          "logoUrl": "/api/team-logo/1961"
+        },
+        "awayTeam": {
+          "id": "38",
+          "name": "Chelsea",
+          "logoUrl": "/api/team-logo/38"
+        },
+        "eventId": "13385904",
+        "eventIdFl": "reEVCHGk",
+        "options": {
+          "over": {
+            "name": "+0.5 goles",
+            "odd": "1.45"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "2",
+        "score": "0-2",
+        "firstHalf": 1
+      }
     }
   },
   "2025-W31": {
-    "07-30": {
+    "07-28": {
       "matches": [
         {
-          "eventId": "13336043",
-          "eventIdFl": "phhCC36b",
-          "local": "SK Brann II",
-          "visitante": "Jerv",
-          "logoLocal": "/api/team-logo/872",
-          "logoVisitante": "/api/team-logo/862",
-          "finalizado": true,
-          "golesLocal": "2",
-          "golesVisitante": "4",
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "1.53",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.22",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.45",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "1.33",
-              "resultado": "ganado"
-            }
-          ]
+          "homeTeam": {
+            "id": "3219",
+            "name": "Banfield",
+            "logoUrl": "/api/team-logo/3219"
+          },
+          "awayTeam": {
+            "id": "65668",
+            "name": "Barracas Central",
+            "logoUrl": "/api/team-logo/65668"
+          },
+          "odds": {
+            "1": "2.40",
+            "2": "3.75",
+            "X": "2.65"
+          },
+          "eventId": "14069386",
+          "eventIdFl": "l6fZOz6c",
+          "finished": true,
+          "winner": "2",
+          "score": "1-3"
         },
         {
-          "eventId": "13543368",
-          "eventIdFl": "I3wa8ZhB",
-          "local": "HJS",
-          "visitante": "TPV",
-          "logoLocal": "/api/team-logo/252567",
-          "logoVisitante": "/api/team-logo/2269",
-          "finalizado": true,
-          "golesLocal": "3",
-          "golesVisitante": "3",
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "3.30",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.20",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.40",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "1.36",
-              "resultado": "ganado"
-            }
-          ]
+          "homeTeam": {
+            "id": "6103",
+            "name": "Atlético Bucaramanga",
+            "logoUrl": "/api/team-logo/6103"
+          },
+          "awayTeam": {
+            "id": "6112",
+            "name": "Deportivo Cali",
+            "logoUrl": "/api/team-logo/6112"
+          },
+          "odds": {
+            "1": "1.83",
+            "2": "5.00",
+            "X": "3.40"
+          },
+          "eventId": "14115270",
+          "eventIdFl": "86TvCqcE",
+          "finished": true,
+          "winner": "2",
+          "score": "2-3"
         },
         {
-          "eventId": "13543369",
-          "eventIdFl": "4Ky76DNN",
-          "local": "NJS",
-          "visitante": "PPJ",
-          "logoLocal": "/api/team-logo/191717",
-          "logoVisitante": "/api/team-logo/190806",
-          "finalizado": true,
-          "golesLocal": "4",
-          "golesVisitante": "1",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "2.72",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.18",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "3.20",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "1.30",
-              "resultado": "ganado"
-            }
-          ]
-        },
-        {
-          "eventId": "14020046",
-          "eventIdFl": "h4x6GdW0",
-          "local": "Dainava Alytus",
-          "visitante": "FK Panevėžys",
-          "logoLocal": "/api/team-logo/192536",
-          "logoVisitante": "/api/team-logo/192763",
-          "finalizado": true,
-          "golesLocal": "0",
-          "golesVisitante": "3",
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "1.75",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.20",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.92",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "Under",
-              "cuota": "1.85",
-              "resultado": "perdido"
-            }
-          ]
-        },
-        {
-          "eventId": "14054674",
-          "eventIdFl": "CEttIulo",
-          "local": "FK Csíkszereda Miercurea Ciuc",
-          "visitante": "FC Dinamo București",
-          "logoLocal": "/api/team-logo/283972",
-          "logoVisitante": "/api/team-logo/3292",
-          "finalizado": true,
-          "golesLocal": "2",
-          "golesVisitante": "2",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "3.60",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.36",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.90",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "Under",
-              "cuota": "1.60",
-              "resultado": "perdido"
-            }
-          ]
-        },
-        {
-          "eventId": "14069363",
-          "eventIdFl": "pIqXj8v8",
-          "local": "Deportivo Riestra",
-          "visitante": "Lanús",
-          "logoLocal": "/api/team-logo/189723",
-          "logoVisitante": "/api/team-logo/3218",
-          "finalizado": true,
-          "golesLocal": "1",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "X",
-              "cuota": "2.70",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "1X",
-              "cuota": "1.54",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.47",
-              "resultado": "pendiente"
-            },
-            {
-              "tipo": "Under",
-              "cuota": "1.30",
-              "resultado": "ganado"
-            }
-          ]
-        },
-        {
-          "eventId": "14069356",
-          "eventIdFl": "6mEIoD2S",
-          "local": "Banfield",
-          "visitante": "Defensa y Justicia",
-          "logoLocal": "/api/team-logo/3219",
-          "logoVisitante": "/api/team-logo/36839",
-          "finalizado": true,
-          "golesLocal": "0",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "2",
-              "cuota": "2.95",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "X2",
-              "cuota": "1.48",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.45",
-              "resultado": "pendiente"
-            },
-            {
-              "tipo": "Under",
-              "cuota": "1.50",
-              "resultado": "ganado"
-            }
-          ]
-        },
-        {
-          "eventId": "14044780",
-          "eventIdFl": "hdQ855ke",
-          "local": "Nacional Potosí",
-          "visitante": "CD Totora Real Oruro",
-          "logoLocal": "/api/team-logo/47700",
-          "logoVisitante": "/api/team-logo/423186",
-          "finalizado": true,
-          "golesLocal": "2",
-          "golesVisitante": "3",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "1.48",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "1X",
-              "cuota": "1.15",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "GG",
-              "cuota": "1.62",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "Over",
-              "cuota": "1.44",
-              "resultado": "ganado"
-            }
-          ]
-        },
-        {
-          "eventId": "13472794",
-          "eventIdFl": "OOzVPO7C",
-          "local": "Juventude",
-          "visitante": "Sport Recife",
-          "logoLocal": "/api/team-logo/1980",
-          "logoVisitante": "/api/team-logo/1959",
-          "finalizado": true,
-          "golesLocal": "2",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "2.62",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.36",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.80",
-              "resultado": "pendiente"
-            }
-          ]
-        },
-        {
-          "eventId": "14069352",
-          "eventIdFl": "jFt7TDtp",
-          "local": "Club Atlético Unión de Santa Fe",
-          "visitante": "Estudiantes de La Plata",
-          "logoLocal": "/api/team-logo/3204",
-          "logoVisitante": "/api/team-logo/3206",
-          "finalizado": true,
-          "golesLocal": "1",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "2.62",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "12",
-              "cuota": "1.36",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.70",
-              "resultado": "pendiente"
-            }
-          ]
-        },
-        {
-          "eventId": "14094762",
-          "eventIdFl": "pf1hh2d2",
-          "local": "Botafogo-SP",
-          "visitante": "Volta Redonda",
-          "logoLocal": "/api/team-logo/1979",
-          "logoVisitante": "/api/team-logo/6982",
-          "finalizado": true,
-          "golesLocal": "0",
-          "golesVisitante": "0",
-          "mercados": [
-            {
-              "tipo": "1",
-              "cuota": "2.38",
-              "resultado": "perdido"
-            },
-            {
-              "tipo": "1X",
-              "cuota": "1.30",
-              "resultado": "ganado"
-            },
-            {
-              "tipo": "NG",
-              "cuota": "1.50",
-              "resultado": "pendiente"
-            }
-          ]
+          "homeTeam": {
+            "id": "6117",
+            "name": "Millonarios",
+            "logoUrl": "/api/team-logo/6117"
+          },
+          "awayTeam": {
+            "id": "89374",
+            "name": "Llaneros FC",
+            "logoUrl": "/api/team-logo/89374"
+          },
+          "odds": {
+            "1": "1.44",
+            "2": "8.00",
+            "X": "4.50"
+          },
+          "eventId": "14115271",
+          "eventIdFl": "8Stxfnye",
+          "finished": true,
+          "winner": "2",
+          "score": "0-1"
         }
-      ]
-    },
+      ],
+      "optional": {
+        "homeTeam": {
+          "id": "6103",
+          "name": "Atlético Bucaramanga",
+          "logoUrl": "/api/team-logo/6103"
+        },
+        "awayTeam": {
+          "id": "6112",
+          "name": "Deportivo Cali",
+          "logoUrl": "/api/team-logo/6112"
+        },
+        "eventId": "14115270",
+        "eventIdFl": "86TvCqcE",
+        "options": {
+          "over": {
+            "name": "+0.5 goles",
+            "odd": "1.54"
+          }
+        },
+        "finished": true,
+        "result": "Ganada",
+        "winner": "2",
+        "score": "2-3",
+        "firstHalf": 2
+      }
+    }
   }
 }

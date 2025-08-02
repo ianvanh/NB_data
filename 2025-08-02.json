@@ -1,0 +1,5806 @@
+[
+  {
+    "dateTime": "02/08/2025, 12:00 a. m.",
+    "local": {
+      "nombre": "Consadole Sapporo",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/29/2685.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Sagan Tosu",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/639.png",
+      "golesVisitante": "0"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.30"
+    },
+    "cuotas": {
+      "1": "2.30",
+      "2": "2.90",
+      "12": "1.30",
+      "X": "3.40",
+      "1X": "1.40",
+      "X2": "1.57",
+      "GG": "1.72",
+      "NG": "2.00",
+      "O15": "1.30",
+      "U15": "3.40",
+      "O25": "2.00",
+      "U25": "1.80",
+      "O35": "3.40",
+      "U35": "1.30"
+    },
+    "resultados": {
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": false,
+      "NG": true,
+      "O15": false,
+      "U15": true,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
+    },
+    "probabilidades": {
+      "1": 47,
+      "2": 27,
+      "12": 73,
+      "X": 27,
+      "1X": 73,
+      "X2": 53,
+      "GG": 53,
+      "NG": 47,
+      "O15": 73,
+      "U15": 27,
+      "O25": 53,
+      "U25": 47,
+      "O35": 26,
+      "U35": 74
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 12:00 a. m.",
+    "local": {
+      "nombre": "O'Connor Knights",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/243302.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Cooma Tigers",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/109018.png",
+      "golesVisitante": "4"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "O25",
+      "odd": "1.33"
+    },
+    "cuotas": {
+      "1": "3.60",
+      "2": "1.60",
+      "12": "1.12",
+      "X": "4.75",
+      "1X": "2.15",
+      "X2": "1.22",
+      "GG": "1.32",
+      "NG": "3.05",
+      "O15": "1.03",
+      "U15": "7.50",
+      "O25": "1.33",
+      "U25": "3.25",
+      "O35": "1.69",
+      "U35": "2.01"
+    },
+    "resultados": {
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": true,
+      "U35": false
+    },
+    "probabilidades": {
+      "1": 25,
+      "2": 56,
+      "12": 82,
+      "X": 18,
+      "1X": 44,
+      "X2": 75,
+      "GG": 67,
+      "NG": 33,
+      "O15": 88,
+      "U15": 12,
+      "O25": 67,
+      "U25": 33,
+      "O35": 53,
+      "U35": 47
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 03:00 a. m.",
+    "local": {
+      "nombre": "CS Dinamo București",
+      "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Dumbrăviţa",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/229111.png",
+      "golesVisitante": "2"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "1X",
+      "odd": "1.40"
+    },
+    "cuotas": {
+      "1": "2.30",
+      "2": "2.62",
+      "12": "1.25",
+      "X": "3.40",
+      "1X": "1.40",
+      "X2": "1.50",
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": "2.07",
+      "U25": "1.72",
+      "O35": null,
+      "U35": null
+    },
+    "resultados": {
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": false,
+      "U35": true
+    },
+    "probabilidades": {
+      "1": 64,
+      "2": 14,
+      "12": 78,
+      "X": 22,
+      "1X": 86,
+      "X2": 36,
+      "GG": 43,
+      "NG": 57,
+      "O15": 72,
+      "U15": 28,
+      "O25": 47,
+      "U25": 53,
+      "O35": 26,
+      "U35": 74
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 04:00 a. m.",
+    "local": {
+      "nombre": "V-Varen Nagasaki",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/9986.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Vegalta Sendai",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/12260.png",
+      "golesVisitante": "0"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.33"
+    },
+    "cuotas": {
+      "1": "2.00",
+      "2": "3.50",
+      "12": "1.30",
+      "X": "3.40",
+      "1X": "1.28",
+      "X2": "1.80",
+      "GG": "1.72",
+      "NG": "2.00",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O15": false,
+      "U15": true,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
+    },
+    "probabilidades": {
+      "1": 36,
+      "2": 36,
+      "12": 72,
+      "X": 28,
+      "1X": 64,
+      "X2": 64,
+      "GG": 54,
+      "NG": 46,
+      "O15": 73,
+      "U15": 27,
+      "O25": 54,
+      "U25": 46,
+      "O35": 25,
+      "U35": 75
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 05:00 a. m.",
+    "local": {
+      "nombre": "JEF United",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/4260.png",
+      "golesLocal": "2"
+    },
+    "visitante": {
+      "nombre": "Iwaki",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/7/64391.png",
+      "golesVisitante": "2"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "2.30",
+      "2": "3.00",
+      "12": "1.33",
+      "X": "3.30",
+      "1X": "1.36",
+      "X2": "1.57",
+      "GG": "1.80",
+      "NG": "1.90",
+      "O15": "1.30",
+      "U15": "3.40",
+      "O25": "2.00",
+      "U25": "1.80",
+      "O35": "3.50",
+      "U35": "1.28"
+    },
+    "resultados": {
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": true,
+      "U35": false
+    },
+    "probabilidades": {
+      "1": 50,
+      "2": 25,
+      "12": 75,
+      "X": 25,
+      "1X": 75,
+      "X2": 50,
+      "GG": 52,
+      "NG": 48,
+      "O15": 72,
+      "U15": 28,
+      "O25": 47,
+      "U25": 53,
+      "O35": 25,
+      "U35": 75
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 05:00 a. m.",
+    "local": {
+      "nombre": "Fujieda MYFC",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/18272.png",
+      "golesLocal": "2"
+    },
+    "visitante": {
+      "nombre": "Renofa Yamaguchi",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/14680.png",
+      "golesVisitante": "2"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.20"
+    },
+    "cuotas": {
+      "1": "2.50",
+      "2": "2.75",
+      "12": "1.36",
+      "X": "3.10",
+      "1X": "1.40",
+      "X2": "1.50",
+      "GG": "1.90",
+      "NG": "1.80",
+      "O15": "1.40",
+      "U15": "2.75",
+      "O25": "2.30",
+      "U25": "1.60",
+      "O35": "4.33",
+      "U35": "1.20"
+    },
+    "resultados": {
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": true,
+      "U35": false
+    },
+    "probabilidades": {
+      "1": 38,
+      "2": 34,
+      "12": 72,
+      "X": 28,
+      "1X": 66,
+      "X2": 62,
+      "GG": 50,
+      "NG": 50,
+      "O15": 70,
+      "U15": 30,
+      "O25": 44,
+      "U25": 56,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 05:00 a. m.",
+    "local": {
+      "nombre": "Bucheon 1995",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/7361.png",
+      "golesLocal": "2"
+    },
+    "visitante": {
+      "nombre": "Seongnam",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/3605.png",
+      "golesVisitante": "3"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "2.15",
+      "2": "3.10",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "1.36",
+      "X2": "1.66",
+      "GG": "1.72",
+      "NG": "2.00",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.90",
+      "U25": "1.90",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": true,
+      "U35": false
+    },
+    "probabilidades": {
+      "1": 50,
+      "2": 23,
+      "12": 73,
+      "X": 27,
+      "1X": 77,
+      "X2": 50,
+      "GG": 50,
+      "NG": 50,
+      "O15": 72,
+      "U15": 28,
+      "O25": 50,
+      "U25": 50,
+      "O35": 24,
+      "U35": 76
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 05:00 a. m.",
+    "local": {
+      "nombre": "Seoul E.",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/14732.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Incheon United",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/6922.png",
+      "golesVisitante": "0"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.40"
+    },
+    "cuotas": {
+      "1": "3.20",
+      "2": "2.20",
+      "12": "1.33",
+      "X": "3.25",
+      "1X": "1.66",
+      "X2": "1.36",
+      "GG": "2.00",
+      "NG": "1.72",
+      "O15": "1.40",
+      "U15": "2.75",
+      "O25": "2.25",
+      "U25": "1.61",
+      "O35": "4.33",
+      "U35": "1.20"
+    },
+    "resultados": {
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O15": false,
+      "U15": true,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
+    },
+    "probabilidades": {
+      "1": 28,
+      "2": 44,
+      "12": 72,
+      "X": 28,
+      "1X": 56,
+      "X2": 72,
+      "GG": 51,
+      "NG": 49,
+      "O15": 72,
+      "U15": 28,
+      "O25": 46,
+      "U25": 54,
+      "O35": 24,
+      "U35": 76
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 06:00 a. m.",
+    "local": {
+      "nombre": "Shanghai Jiading Huilong",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/27600.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Nanjing City",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/254702.png",
+      "golesVisitante": "1"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.40"
+    },
+    "cuotas": {
+      "1": "2.70",
+      "2": "2.30",
+      "12": "1.25",
+      "X": "3.25",
+      "1X": "1.50",
+      "X2": "1.36",
+      "GG": "2.00",
+      "NG": "1.72",
+      "O15": "1.40",
+      "U15": "2.75",
+      "O25": "2.25",
+      "U25": "1.61",
+      "O35": "4.33",
+      "U35": "1.20"
+    },
+    "resultados": {
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
+    },
+    "probabilidades": {
+      "1": 35,
+      "2": 36,
+      "12": 71,
+      "X": 29,
+      "1X": 64,
+      "X2": 65,
+      "GG": 48,
+      "NG": 52,
+      "O15": 67,
+      "U15": 33,
+      "O25": 41,
+      "U25": 59,
+      "O35": 21,
+      "U35": 79
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 06:00 a. m.",
+    "local": {
+      "nombre": "Karlsruher SC",
+      "logo": "https://bm-assets.ams3.digitaloceanspaces.com/teams/bundesliga2/karl.png",
+      "golesLocal": "3"
+    },
+    "visitante": {
+      "nombre": "Preußen Münster",
+      "logo": "https://bm-assets.ams3.digitaloceanspaces.com/teams/bundesliga2/default.png",
+      "golesVisitante": "2"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "1.95",
+      "2": "3.50",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "1.28",
+      "X2": "1.80",
+      "GG": "1.61",
+      "NG": "2.20",
+      "O15": "1.22",
+      "U15": "4.00",
+      "O25": "1.70",
+      "U25": "2.10",
+      "O35": "2.62",
+      "U35": "1.44"
+    },
+    "resultados": {
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": true,
+      "U35": false
+    },
+    "probabilidades": {
+      "1": 50,
+      "2": 25,
+      "12": 75,
+      "X": 25,
+      "1X": 75,
+      "X2": 50,
+      "GG": 55,
+      "NG": 45,
+      "O15": 76,
+      "U15": 24,
+      "O25": 53,
+      "U25": 47,
+      "O35": 31,
+      "U35": 69
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 07:00 a. m.",
+    "local": {
+      "nombre": "FS Jelgava",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/261064.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Liepāja",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/6142.png",
+      "golesVisitante": "2"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "2.87",
+      "2": "2.05",
+      "12": "1.22",
+      "X": "3.70",
+      "1X": "1.61",
+      "X2": "1.33",
+      "GG": "1.80",
+      "NG": "1.90",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.90",
+      "U25": "1.90",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": false,
+      "U35": true
+    },
+    "probabilidades": {
+      "1": 29,
+      "2": 45,
+      "12": 74,
+      "X": 26,
+      "1X": 55,
+      "X2": 71,
+      "GG": 53,
+      "NG": 47,
+      "O15": 75,
+      "U15": 25,
+      "O25": 52,
+      "U25": 48,
+      "O35": 31,
+      "U35": 69
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 07:00 a. m.",
+    "local": {
+      "nombre": "Okzhetpes",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/6280.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Yelimay Semey",
+      "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png",
+      "golesVisitante": "1"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "3.20",
+      "2": "2.10",
+      "12": "1.28",
+      "X": "3.10",
+      "1X": "1.60",
+      "X2": "1.28",
+      "GG": "1.75",
+      "NG": "1.95",
+      "O15": "1.31",
+      "U15": "3.14",
+      "O25": "2.05",
+      "U25": "1.75",
+      "O35": "3.48",
+      "U35": "1.22"
+    },
+    "resultados": {
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
+    },
+    "probabilidades": {
+      "1": 26,
+      "2": 46,
+      "12": 72,
+      "X": 28,
+      "1X": 54,
+      "X2": 74,
+      "GG": 50,
+      "NG": 50,
+      "O15": 71,
+      "U15": 29,
+      "O25": 46,
+      "U25": 54,
+      "O35": 24,
+      "U35": 76
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 07:00 a. m.",
+    "local": {
+      "nombre": "Aarhus Fremad",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/8724.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Lyngby Boldklub",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/2650.png",
+      "golesVisitante": "2"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.25"
+    },
+    "cuotas": {
+      "1": "3.10",
+      "2": "2.20",
+      "12": "1.30",
+      "X": "3.40",
+      "1X": "1.66",
+      "X2": "1.36",
+      "GG": "1.66",
+      "NG": "2.10",
+      "O15": "1.25",
+      "U15": "3.75",
+      "O25": "1.85",
+      "U25": "1.95",
+      "O35": "3.00",
+      "U35": "1.36"
+    },
+    "resultados": {
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O15": true,
+      "U15": false,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
+    },
+    "probabilidades": {
+      "1": 44,
+      "2": 30,
+      "12": 74,
+      "X": 26,
+      "1X": 70,
+      "X2": 56,
+      "GG": 50,
+      "NG": 50,
+      "O15": 73,
+      "U15": 27,
+      "O25": 50,
+      "U25": 50,
+      "O35": 28,
+      "U35": 72
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 07:00 a. m.",
+    "local": {
+      "nombre": "Middelfart",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/8759.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Esbjerg",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/27/1371.png",
+      "golesVisitante": "1"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.30"
+    },
+    "cuotas": {
+      "1": "3.50",
+      "2": "2.05",
+      "12": "1.30",
+      "X": "3.40",
+      "1X": "1.72",
+      "X2": "1.28",
+      "GG": "1.61",
+      "NG": "2.20",
+      "O15": "1.22",
+      "U15": "4.00",
+      "O25": "1.72",
+      "U25": "2.07",
+      "O35": "2.75",
+      "U35": "1.40"
+    },
+    "resultados": {
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O15": false,
+      "U15": true,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
+    },
+    "probabilidades": {
+      "1": 48,
+      "2": 27,
+      "12": 75,
+      "X": 25,
+      "1X": 73,
+      "X2": 52,
+      "GG": 52,
+      "NG": 48,
+      "O15": 75,
+      "U15": 25,
+      "O25": 52,
+      "U25": 48,
+      "O35": 29,
+      "U35": 71
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 07:00 a. m.",
+    "local": {
+      "nombre": "Hoffenheim II",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/2089.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Havelse",
+      "logo": "https://cdn.sportmonks.com/images//soccer/teams/15/3535.png",
+      "golesVisitante": "0"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": null,
+      "odd": null
+    },
+    "cuotas": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "resultados": {
+      "1": false,
+      "2": false,
+      "12": false,
+      "X": true,
+      "1X": true,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O15": false,
+      "U15": true,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
+    },
+    "probabilidades": {
+      "1": 72,
+      "2": 11,
+      "12": 84,
+      "X": 16,
+      "1X": 89,
+      "X2": 28,
+      "GG": 51,
+      "NG": 49,
+      "O15": 83,
+      "U15": 17,
+      "O25": 63,
+      "U25": 37,
+      "O35": 41,
+      "U35": 59
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 07:30 a. m.",
+    "local": {
+      "nombre": "Veres",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/5562.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Dynamo Kyiv",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/556.png",
+      "golesVisitante": "1"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "5.25",
+      "2": "1.50",
+      "12": "1.18",
+      "X": "3.80",
+      "1X": "2.30",
+      "X2": "1.11",
+      "GG": "2.00",
+      "NG": "1.72",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": false,
+      "NG": true,
+      "O15": false,
+      "U15": true,
+      "O25": false,
+      "U25": true,
+      "O35": false,
+      "U35": true
+    },
+    "probabilidades": {
+      "1": 15,
+      "2": 62,
+      "12": 76,
+      "X": 24,
+      "1X": 38,
+      "X2": 85,
+      "GG": 44,
+      "NG": 56,
+      "O15": 71,
+      "U15": 29,
+      "O25": 44,
+      "U25": 56,
+      "O35": 25,
+      "U35": 75
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 07:45 a. m.",
+    "local": {
+      "nombre": "Zagłębie Sosnowiec",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/4410.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Resovia Rzeszów",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/24575.png",
+      "golesVisitante": "5"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.20"
+    },
+    "cuotas": {
+      "1": "1.66",
+      "2": "4.20",
+      "12": "1.20",
+      "X": "3.75",
+      "1X": "1.16",
+      "X2": "2.00",
+      "GG": "1.80",
+      "NG": "1.90",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.85",
+      "U25": "1.95",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": true,
+      "U35": false
+    },
+    "probabilidades": {
+      "1": 38,
+      "2": 36,
+      "12": 73,
+      "X": 27,
+      "1X": 64,
+      "X2": 62,
+      "GG": 61,
+      "NG": 39,
+      "O15": 79,
+      "U15": 21,
+      "O25": 61,
+      "U25": 39,
+      "O35": 34,
+      "U35": 66
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 08:00 a. m.",
+    "local": {
+      "nombre": "Utsikten",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/2527.png",
+      "golesLocal": "4"
+    },
+    "visitante": {
+      "nombre": "GIF Sundsvall",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/27/9179.png",
+      "golesVisitante": "1"
+    },
+    "estado": "FT",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "2.55",
+      "2": "2.70",
+      "12": "1.33",
+      "X": "3.30",
+      "1X": "1.44",
+      "X2": "1.50",
+      "GG": "1.80",
+      "NG": "1.95",
+      "O15": "1.30",
+      "U15": "3.40",
+      "O25": "2.00",
+      "U25": "1.80",
+      "O35": "3.50",
+      "U35": "1.28"
+    },
+    "resultados": {
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": true,
+      "U35": false
+    },
+    "probabilidades": {
+      "1": 33,
+      "2": 38,
+      "12": 71,
+      "X": 29,
+      "1X": 61,
+      "X2": 67,
+      "GG": 51,
+      "NG": 49,
+      "O15": 71,
+      "U15": 29,
+      "O25": 45,
+      "U25": 55,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Ranheim",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/994.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Hødd",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/1580.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "1.75",
+      "2": "4.00",
+      "12": "1.25",
+      "X": "3.80",
+      "1X": "1.22",
+      "X2": "2.00",
+      "GG": "1.72",
+      "NG": "2.00",
+      "O15": "1.22",
+      "U15": "4.00",
+      "O25": "1.75",
+      "U25": "2.05",
+      "O35": "2.75",
+      "U35": "1.40"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 43,
+      "2": 32,
+      "12": 76,
+      "X": 24,
+      "1X": 68,
+      "X2": 57,
+      "GG": 58,
+      "NG": 42,
+      "O15": 79,
+      "U15": 21,
+      "O25": 58,
+      "U25": 42,
+      "O35": 32,
+      "U35": 68
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Aalesund",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/393.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Kongsvinger",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/7045.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.18"
+    },
+    "cuotas": {
+      "1": "2.15",
+      "2": "3.10",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "1.36",
+      "X2": "1.66",
+      "GG": "1.53",
+      "NG": "2.37",
+      "O15": "1.18",
+      "U15": "4.50",
+      "O25": "1.65",
+      "U25": "2.20",
+      "O35": "2.50",
+      "U35": "1.50"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 40,
+      "2": 36,
+      "12": 76,
+      "X": 24,
+      "1X": 64,
+      "X2": 60,
+      "GG": 60,
+      "NG": 40,
+      "O15": 80,
+      "U15": 20,
+      "O25": 60,
+      "U25": 40,
+      "O35": 36,
+      "U35": 64
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "ÍBV",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/853.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "KR Reykjavík",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/8673.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.10"
+    },
+    "cuotas": {
+      "1": "2.75",
+      "2": "2.15",
+      "12": "1.25",
+      "X": "3.80",
+      "1X": "1.66",
+      "X2": "1.40",
+      "GG": "1.33",
+      "NG": "3.25",
+      "O15": "1.10",
+      "U15": "6.50",
+      "O25": "1.36",
+      "U25": "3.00",
+      "O35": "1.83",
+      "U35": "1.83"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 44,
+      "2": 35,
+      "12": 79,
+      "X": 21,
+      "1X": 65,
+      "X2": 56,
+      "GG": 65,
+      "NG": 35,
+      "O15": 86,
+      "U15": 14,
+      "O25": 67,
+      "U25": 33,
+      "O35": 47,
+      "U35": 53
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "AFC Eskilstuna",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/80.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Haninge",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/13631.png",
+      "golesVisitante": "2"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.10"
+    },
+    "cuotas": {
+      "1": "2.10",
+      "2": "2.75",
+      "12": "1.22",
+      "X": "3.60",
+      "1X": "1.36",
+      "X2": "1.60",
+      "GG": "1.36",
+      "NG": "3.00",
+      "O15": "1.10",
+      "U15": "6.50",
+      "O25": "1.36",
+      "U25": "3.00",
+      "O35": "1.83",
+      "U35": "1.83"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 38,
+      "2": 39,
+      "12": 77,
+      "X": 23,
+      "1X": 61,
+      "X2": 62,
+      "GG": 63,
+      "NG": 37,
+      "O15": 83,
+      "U15": 17,
+      "O25": 63,
+      "U25": 37,
+      "O35": 41,
+      "U35": 59
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Gefle",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/8625.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Karlberg",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/13483.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "2.90",
+      "2": "2.20",
+      "12": "1.28",
+      "X": "3.10",
+      "1X": "1.55",
+      "X2": "1.30",
+      "GG": "1.61",
+      "NG": "2.20",
+      "O15": "1.22",
+      "U15": "4.00",
+      "O25": "1.80",
+      "U25": "2.00",
+      "O35": "2.75",
+      "U35": "1.40"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 36,
+      "2": 40,
+      "12": 76,
+      "X": 24,
+      "1X": 60,
+      "X2": 64,
+      "GG": 58,
+      "NG": 42,
+      "O15": 80,
+      "U15": 20,
+      "O25": 58,
+      "U25": 42,
+      "O35": 34,
+      "U35": 66
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "United Nordic",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/253112.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "IF Karlstad Fotboll",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/239493.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "3.00",
+      "2": "2.05",
+      "12": "1.28",
+      "X": "3.70",
+      "1X": "1.72",
+      "X2": "1.36",
+      "GG": "1.61",
+      "NG": "2.20",
+      "O15": "1.20",
+      "U15": "4.33",
+      "O25": "1.66",
+      "U25": "2.15",
+      "O35": "2.62",
+      "U35": "1.44"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 48,
+      "2": 28,
+      "12": 76,
+      "X": 23,
+      "1X": 72,
+      "X2": 52,
+      "GG": 59,
+      "NG": 41,
+      "O15": 80,
+      "U15": 20,
+      "O25": 59,
+      "U25": 41,
+      "O35": 35,
+      "U35": 65
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Super Nova",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/151753.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "FC Daugavpils",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/234431.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.20"
+    },
+    "cuotas": {
+      "1": "2.45",
+      "2": "2.30",
+      "12": "1.20",
+      "X": "3.75",
+      "1X": "1.50",
+      "X2": "1.44",
+      "GG": "1.80",
+      "NG": "1.90",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.40",
+      "U35": "1.30"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 45,
+      "2": 28,
+      "12": 73,
+      "X": 27,
+      "1X": 72,
+      "X2": 55,
+      "GG": 55,
+      "NG": 45,
+      "O15": 75,
+      "U15": 25,
+      "O25": 55,
+      "U25": 45,
+      "O35": 30,
+      "U35": 70
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Honka",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/6901.png",
+      "golesLocal": "3"
+    },
+    "visitante": {
+      "nombre": "MYPA",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/8996.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "1",
+      "odd": "1.16"
+    },
+    "cuotas": {
+      "1": "1.16",
+      "2": "9.50",
+      "12": "1.06",
+      "X": "8.00",
+      "1X": "1.04",
+      "X2": "4.50",
+      "GG": "1.44",
+      "NG": "2.62",
+      "O15": "1.03",
+      "U15": "10.00",
+      "O25": "1.12",
+      "U25": "5.50",
+      "O35": "1.33",
+      "U35": "3.25"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 70,
+      "2": 14,
+      "12": 85,
+      "X": 15,
+      "1X": 86,
+      "X2": 30,
+      "GG": 65,
+      "NG": 35,
+      "O15": 92,
+      "U15": 8,
+      "O25": 79,
+      "U25": 21,
+      "O35": 59,
+      "U35": 41
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Kiffen",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/9165.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "MuSa",
+      "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.11"
+    },
+    "cuotas": {
+      "1": "1.70",
+      "2": "3.25",
+      "12": "1.12",
+      "X": "4.75",
+      "1X": "1.25",
+      "X2": "1.95",
+      "GG": "1.44",
+      "NG": "2.62",
+      "O15": "1.11",
+      "U15": "6.00",
+      "O25": "1.36",
+      "U25": "3.00",
+      "O35": "1.90",
+      "U35": "1.80"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 52,
+      "2": 30,
+      "12": 81,
+      "X": 19,
+      "1X": 70,
+      "X2": 48,
+      "GG": 70,
+      "NG": 30,
+      "O15": 90,
+      "U15": 10,
+      "O25": 75,
+      "U25": 25,
+      "O35": 56,
+      "U35": 44
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Kilmarnock",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/180.png",
+      "golesLocal": "2"
+    },
+    "visitante": {
+      "nombre": "Livingston",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/258.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.33"
+    },
+    "cuotas": {
+      "1": "2.25",
+      "2": "3.10",
+      "12": "1.33",
+      "X": "3.30",
+      "1X": "1.36",
+      "X2": "1.61",
+      "GG": "1.80",
+      "NG": "1.95",
+      "O15": "1.30",
+      "U15": "3.50",
+      "O25": "2.00",
+      "U25": "1.80",
+      "O35": "3.40",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 38,
+      "2": 35,
+      "12": 73,
+      "X": 27,
+      "1X": 65,
+      "X2": 62,
+      "GG": 54,
+      "NG": 46,
+      "O15": 73,
+      "U15": 27,
+      "O25": 49,
+      "U25": 51,
+      "O35": 27,
+      "U35": 73
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Westerlo",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/357.png",
+      "golesLocal": "2"
+    },
+    "visitante": {
+      "nombre": "Zulte-Waregem",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/1118.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.12"
+    },
+    "cuotas": {
+      "1": "2.05",
+      "2": "3.10",
+      "12": "1.25",
+      "X": "3.80",
+      "1X": "1.36",
+      "X2": "1.72",
+      "GG": "1.44",
+      "NG": "2.62",
+      "O15": "1.12",
+      "U15": "6.00",
+      "O25": "1.44",
+      "U25": "2.70",
+      "O35": "2.10",
+      "U35": "1.66"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 39,
+      "2": 36,
+      "12": 75,
+      "X": 25,
+      "1X": 64,
+      "X2": 61,
+      "GG": 58,
+      "NG": 42,
+      "O15": 78,
+      "U15": 22,
+      "O25": 58,
+      "U25": 42,
+      "O35": 34,
+      "U35": 66
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Airdrieonians",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/1399.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Ross County",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/246.png",
+      "golesVisitante": "2"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "3.20",
+      "2": "2.00",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "1.72",
+      "X2": "1.36",
+      "GG": "1.80",
+      "NG": "1.90",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.90",
+      "U25": "1.90",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 35,
+      "2": 39,
+      "12": 74,
+      "X": 26,
+      "1X": 61,
+      "X2": 65,
+      "GG": 55,
+      "NG": 45,
+      "O15": 75,
+      "U15": 25,
+      "O25": 51,
+      "U25": 49,
+      "O35": 28,
+      "U35": 72
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Raith Rovers",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/190.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Queen's Park",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/10497.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.16"
+    },
+    "cuotas": {
+      "1": "1.38",
+      "2": "7.00",
+      "12": "1.16",
+      "X": "4.50",
+      "1X": "1.08",
+      "X2": "3.00",
+      "GG": "2.10",
+      "NG": "1.66",
+      "O15": "1.25",
+      "U15": "3.75",
+      "O25": "1.80",
+      "U25": "2.00",
+      "O35": "3.00",
+      "U35": "1.36"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 64,
+      "2": 15,
+      "12": 79,
+      "X": 21,
+      "1X": 85,
+      "X2": 36,
+      "GG": 50,
+      "NG": 50,
+      "O15": 77,
+      "U15": 23,
+      "O25": 54,
+      "U25": 47,
+      "O35": 31,
+      "U35": 69
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Bradford City",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/137.png",
+      "golesLocal": "2"
+    },
+    "visitante": {
+      "nombre": "Wycombe Wanderers",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/183.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "2.55",
+      "2": "2.70",
+      "12": "1.33",
+      "X": "3.25",
+      "1X": "1.44",
+      "X2": "1.50",
+      "GG": "1.90",
+      "NG": "1.90",
+      "O15": "1.36",
+      "U15": "3.00",
+      "O25": "2.15",
+      "U25": "1.66",
+      "O35": "4.00",
+      "U35": "1.22"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 52,
+      "2": 22,
+      "12": 73,
+      "X": 27,
+      "1X": 78,
+      "X2": 48,
+      "GG": 46,
+      "NG": 54,
+      "O15": 70,
+      "U15": 30,
+      "O25": 44,
+      "U25": 56,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Doncaster Rovers",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/235.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Exeter City",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/185.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "1.75",
+      "2": "4.50",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "1.18",
+      "X2": "2.00",
+      "GG": "1.90",
+      "NG": "1.90",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.40",
+      "U35": "1.30"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 47,
+      "2": 27,
+      "12": 74,
+      "X": 26,
+      "1X": 73,
+      "X2": 53,
+      "GG": 52,
+      "NG": 48,
+      "O15": 74,
+      "U15": 26,
+      "O25": 49,
+      "U25": 51,
+      "O35": 27,
+      "U35": 73
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Huddersfield Town",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/27/251.png",
+      "golesLocal": "2"
+    },
+    "visitante": {
+      "nombre": "Leyton Orient",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/294.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "2.20",
+      "2": "2.87",
+      "12": "1.28",
+      "X": "3.70",
+      "1X": "1.40",
+      "X2": "1.66",
+      "GG": "1.75",
+      "NG": "2.00",
+      "O15": "1.25",
+      "U15": "3.75",
+      "O25": "1.85",
+      "U25": "1.95",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 37,
+      "2": 38,
+      "12": 75,
+      "X": 25,
+      "1X": 62,
+      "X2": 63,
+      "GG": 56,
+      "NG": 44,
+      "O15": 77,
+      "U15": 23,
+      "O25": 56,
+      "U25": 44,
+      "O35": 32,
+      "U35": 68
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Plymouth Argyle",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/110.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Barnsley",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/54.png",
+      "golesVisitante": "2"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.18"
+    },
+    "cuotas": {
+      "1": "2.55",
+      "2": "2.45",
+      "12": "1.28",
+      "X": "3.70",
+      "1X": "1.53",
+      "X2": "1.50",
+      "GG": "1.53",
+      "NG": "2.37",
+      "O15": "1.18",
+      "U15": "4.50",
+      "O25": "1.60",
+      "U25": "2.30",
+      "O35": "2.50",
+      "U35": "1.50"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 36,
+      "2": 41,
+      "12": 76,
+      "X": 24,
+      "1X": 59,
+      "X2": 64,
+      "GG": 62,
+      "NG": 38,
+      "O15": 81,
+      "U15": 19,
+      "O25": 62,
+      "U25": 38,
+      "O35": 39,
+      "U35": 61
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Accrington Stanley",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/395.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Gillingham",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/307.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "2.55",
+      "2": "2.87",
+      "12": "1.36",
+      "X": "3.00",
+      "1X": "1.40",
+      "X2": "1.50",
+      "GG": "1.83",
+      "NG": "1.83",
+      "O15": "1.36",
+      "U15": "3.00",
+      "O25": "2.20",
+      "U25": "1.65",
+      "O35": "4.00",
+      "U35": "1.22"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 24,
+      "2": 47,
+      "12": 71,
+      "X": 29,
+      "1X": 53,
+      "X2": 76,
+      "GG": 40,
+      "NG": 60,
+      "O15": 61,
+      "U15": 39,
+      "O25": 40,
+      "U25": 60,
+      "O35": 17,
+      "U35": 83
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Cambridge United",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/232.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Cheltenham Town",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/351.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.25"
+    },
+    "cuotas": {
+      "1": "1.85",
+      "2": "4.00",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "1.22",
+      "X2": "1.90",
+      "GG": "1.72",
+      "NG": "2.00",
+      "O15": "1.25",
+      "U15": "3.75",
+      "O25": "1.80",
+      "U25": "2.00",
+      "O35": "3.00",
+      "U35": "1.36"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 38,
+      "2": 35,
+      "12": 73,
+      "X": 27,
+      "1X": 65,
+      "X2": 62,
+      "GG": 54,
+      "NG": 46,
+      "O15": 74,
+      "U15": 26,
+      "O25": 54,
+      "U25": 46,
+      "O35": 28,
+      "U35": 72
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Grimsby Town",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/198.png",
+      "golesLocal": "2"
+    },
+    "visitante": {
+      "nombre": "Crawley Town",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/205.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "1.95",
+      "2": "3.50",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "1.28",
+      "X2": "1.80",
+      "GG": "1.61",
+      "NG": "2.20",
+      "O15": "1.20",
+      "U15": "4.33",
+      "O25": "1.70",
+      "U25": "2.10",
+      "O35": "2.62",
+      "U35": "1.44"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 36,
+      "2": 40,
+      "12": 76,
+      "X": 24,
+      "1X": 60,
+      "X2": 64,
+      "GG": 65,
+      "NG": 35,
+      "O15": 84,
+      "U15": 16,
+      "O25": 65,
+      "U25": 35,
+      "O35": 44,
+      "U35": 56
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Newport County",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/72.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Notts County",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/98.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.25"
+    },
+    "cuotas": {
+      "1": "4.20",
+      "2": "1.80",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "1.95",
+      "X2": "1.22",
+      "GG": "1.72",
+      "NG": "2.00",
+      "O15": "1.25",
+      "U15": "3.75",
+      "O25": "1.85",
+      "U25": "1.95",
+      "O35": "3.00",
+      "U35": "1.36"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 27,
+      "2": 50,
+      "12": 77,
+      "X": 23,
+      "1X": 50,
+      "X2": 73,
+      "GG": 54,
+      "NG": 46,
+      "O15": 76,
+      "U15": 24,
+      "O25": 54,
+      "U25": 46,
+      "O35": 31,
+      "U35": 69
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Shrewsbury Town",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/154.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Bromley",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/296.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.25"
+    },
+    "cuotas": {
+      "1": "2.35",
+      "2": "2.75",
+      "12": "1.28",
+      "X": "3.50",
+      "1X": "1.40",
+      "X2": "1.57",
+      "GG": "1.66",
+      "NG": "2.10",
+      "O15": "1.25",
+      "U15": "3.75",
+      "O25": "1.85",
+      "U25": "1.95",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 29,
+      "2": 44,
+      "12": 74,
+      "X": 26,
+      "1X": 56,
+      "X2": 71,
+      "GG": 48,
+      "NG": 52,
+      "O15": 70,
+      "U15": 30,
+      "O25": 44,
+      "U25": 56,
+      "O35": 24,
+      "U35": 76
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Cove Rangers",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/223.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Queen of the South",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/1495.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.33"
+    },
+    "cuotas": {
+      "1": "2.37",
+      "2": "2.70",
+      "12": "1.33",
+      "X": "3.30",
+      "1X": "1.44",
+      "X2": "1.53",
+      "GG": "1.72",
+      "NG": "2.00",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.90",
+      "U25": "1.90",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 38,
+      "2": 35,
+      "12": 73,
+      "X": 27,
+      "1X": 65,
+      "X2": 62,
+      "GG": 51,
+      "NG": 49,
+      "O15": 70,
+      "U15": 30,
+      "O25": 51,
+      "U25": 49,
+      "O35": 25,
+      "U35": 75
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Hamilton Academical",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/338.png",
+      "golesLocal": "2"
+    },
+    "visitante": {
+      "nombre": "Montrose",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/1518.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "1.95",
+      "2": "3.60",
+      "12": "1.30",
+      "X": "3.40",
+      "1X": "1.28",
+      "X2": "1.80",
+      "GG": "1.66",
+      "NG": "2.10",
+      "O15": "1.22",
+      "U15": "4.00",
+      "O25": "1.75",
+      "U25": "2.05",
+      "O35": "2.75",
+      "U35": "1.40"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 50,
+      "2": 25,
+      "12": 76,
+      "X": 24,
+      "1X": 75,
+      "X2": 50,
+      "GG": 53,
+      "NG": 47,
+      "O15": 75,
+      "U15": 25,
+      "O25": 52,
+      "U25": 48,
+      "O35": 29,
+      "U35": 71
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Kelty Hearts",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/25625.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Inverness CT",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/265.png",
+      "golesVisitante": "3"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "4.33",
+      "2": "1.70",
+      "12": "1.28",
+      "X": "3.70",
+      "1X": "2.10",
+      "X2": "1.20",
+      "GG": "1.83",
+      "NG": "1.83",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.40",
+      "U35": "1.30"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 38,
+      "2": 38,
+      "12": 76,
+      "X": 24,
+      "1X": 62,
+      "X2": 62,
+      "GG": 55,
+      "NG": 45,
+      "O15": 77,
+      "U15": 23,
+      "O25": 53,
+      "U25": 47,
+      "O35": 31,
+      "U35": 69
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 a. m.",
+    "local": {
+      "nombre": "Athletic Newham",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Sevenoaks Town",
+      "logo": "https://bm-assets.ams3.digitaloceanspaces.com/teams/team_icon.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "GG",
+      "odd": null
+    },
+    "cuotas": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 27,
+      "2": 55,
+      "12": 82,
+      "X": 18,
+      "1X": 45,
+      "X2": 73,
+      "GG": 68,
+      "NG": 33,
+      "O15": 91,
+      "U15": 9,
+      "O25": 68,
+      "U25": 33,
+      "O35": 58,
+      "U35": 42
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:30 a. m.",
+    "local": {
+      "nombre": "Monostorpályi",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Füzesabony",
+      "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png",
+      "golesVisitante": "0"
+    },
+    "estado": "TBA",
+    "destacado": {
+      "pr": null,
+      "odd": null
+    },
+    "cuotas": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:30 a. m.",
+    "local": {
+      "nombre": "OMTK-Ule",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Dunaharaszti MTK",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/15/23535.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": null,
+      "odd": null
+    },
+    "cuotas": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:30 a. m.",
+    "local": {
+      "nombre": "Gyongyos",
+      "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Eger",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/10156.png",
+      "golesVisitante": "0"
+    },
+    "estado": "TBA",
+    "destacado": {
+      "pr": "2",
+      "odd": null
+    },
+    "cuotas": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 12,
+      "2": 72,
+      "12": 85,
+      "X": 15,
+      "1X": 28,
+      "X2": 88,
+      "GG": 46,
+      "NG": 54,
+      "O15": 82,
+      "U15": 18,
+      "O25": 64,
+      "U25": 36,
+      "O35": 42,
+      "U35": 58
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:30 a. m.",
+    "local": {
+      "nombre": "Bajai",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Nagykanizsai ULE",
+      "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png",
+      "golesVisitante": "0"
+    },
+    "estado": "AU",
+    "destacado": {
+      "pr": null,
+      "odd": null
+    },
+    "cuotas": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 10:00 a. m.",
+    "local": {
+      "nombre": "Varaždin",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/7684.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Gorica",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/8082.png",
+      "golesVisitante": "0"
+    },
+    "estado": "POSTP",
+    "destacado": {
+      "pr": "U25",
+      "odd": null
+    },
+    "cuotas": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 54,
+      "2": 18,
+      "12": 72,
+      "X": 28,
+      "1X": 82,
+      "X2": 46,
+      "GG": 38,
+      "NG": 62,
+      "O15": 61,
+      "U15": 39,
+      "O25": 35,
+      "U25": 65,
+      "O35": 16,
+      "U35": 84
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 10:00 a. m.",
+    "local": {
+      "nombre": "Vihren",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/7530.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Spartak Pleven",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/1672.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.18"
+    },
+    "cuotas": {
+      "1": "1.45",
+      "2": "5.75",
+      "12": "1.18",
+      "X": "3.90",
+      "1X": "1.10",
+      "X2": "2.40",
+      "GG": "2.62",
+      "NG": "1.44",
+      "O15": "1.40",
+      "U15": "2.75",
+      "O25": "2.25",
+      "U25": "1.61",
+      "O35": "4.33",
+      "U35": "1.20"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 57,
+      "2": 17,
+      "12": 74,
+      "X": 26,
+      "1X": 83,
+      "X2": 43,
+      "GG": 42,
+      "NG": 58,
+      "O15": 68,
+      "U15": 32,
+      "O25": 44,
+      "U25": 56,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 10:00 a. m.",
+    "local": {
+      "nombre": "Jastrzębie",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/8561.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "ŁKS Łódź II",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/257374.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.30"
+    },
+    "cuotas": {
+      "1": "2.55",
+      "2": "2.45",
+      "12": "1.30",
+      "X": "3.40",
+      "1X": "1.53",
+      "X2": "1.50",
+      "GG": "1.72",
+      "NG": "2.00",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.40",
+      "U35": "1.30"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 35,
+      "2": 36,
+      "12": 71,
+      "X": 29,
+      "1X": 64,
+      "X2": 65,
+      "GG": 49,
+      "NG": 51,
+      "O15": 69,
+      "U15": 31,
+      "O25": 49,
+      "U25": 51,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 10:00 a. m.",
+    "local": {
+      "nombre": "Wolfsberger AC",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/3787.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Rheindorf Altach",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/3949.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.25"
+    },
+    "cuotas": {
+      "1": "1.85",
+      "2": "3.80",
+      "12": "1.25",
+      "X": "3.80",
+      "1X": "1.25",
+      "X2": "1.90",
+      "GG": "1.80",
+      "NG": "1.95",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.40",
+      "U35": "1.30"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 38,
+      "2": 37,
+      "12": 75,
+      "X": 25,
+      "1X": 63,
+      "X2": 62,
+      "GG": 52,
+      "NG": 48,
+      "O15": 75,
+      "U15": 25,
+      "O25": 52,
+      "U25": 48,
+      "O35": 29,
+      "U35": 71
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 10:00 a. m.",
+    "local": {
+      "nombre": "WSG Tirol",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/4080.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Hartberg",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/5769.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.33"
+    },
+    "cuotas": {
+      "1": "2.60",
+      "2": "2.70",
+      "12": "1.33",
+      "X": "3.25",
+      "1X": "1.44",
+      "X2": "1.50",
+      "GG": "1.80",
+      "NG": "1.95",
+      "O15": "1.33",
+      "U15": "3.25",
+      "O25": "2.10",
+      "U25": "1.70",
+      "O35": "3.75",
+      "U35": "1.25"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 28,
+      "2": 45,
+      "12": 73,
+      "X": 27,
+      "1X": 55,
+      "X2": 72,
+      "GG": 48,
+      "NG": 52,
+      "O15": 70,
+      "U15": 30,
+      "O25": 48,
+      "U25": 52,
+      "O35": 24,
+      "U35": 76
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 10:00 a. m.",
+    "local": {
+      "nombre": "Teplice",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/7/1351.png",
+      "golesLocal": "1"
+    },
+    "visitante": {
+      "nombre": "Bohemians 1905",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/2488.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.33"
+    },
+    "cuotas": {
+      "1": "2.25",
+      "2": "3.00",
+      "12": "1.33",
+      "X": "3.30",
+      "1X": "1.36",
+      "X2": "1.61",
+      "GG": "1.75",
+      "NG": "2.00",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 53,
+      "2": 22,
+      "12": 74,
+      "X": 26,
+      "1X": 78,
+      "X2": 47,
+      "GG": 49,
+      "NG": 51,
+      "O15": 71,
+      "U15": 29,
+      "O25": 46,
+      "U25": 54,
+      "O35": 24,
+      "U35": 76
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 10:00 a. m.",
+    "local": {
+      "nombre": "Hořovicko",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/22062.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Povltava FA",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/248132.png",
+      "golesVisitante": "0"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "X2",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "3.90",
+      "2": "1.61",
+      "12": "1.20",
+      "X": "4.10",
+      "1X": "2.10",
+      "X2": "1.22",
+      "GG": "1.44",
+      "NG": "2.56",
+      "O15": "1.11",
+      "U15": "5.50",
+      "O25": "1.44",
+      "U25": "2.70",
+      "O35": "2.05",
+      "U35": "1.67"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 25,
+      "2": 56,
+      "12": 81,
+      "X": 19,
+      "1X": 44,
+      "X2": 75,
+      "GG": 60,
+      "NG": 40,
+      "O15": 85,
+      "U15": 15,
+      "O25": 68,
+      "U25": 32,
+      "O35": 48,
+      "U35": 52
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 10:00 a. m.",
+    "local": {
+      "nombre": "Tachov",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/8435.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Marianske Lazne",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/22306.png",
+      "golesVisitante": "1"
+    },
+    "estado": "LIVE",
+    "destacado": {
+      "pr": "X2",
+      "odd": "1.33"
+    },
+    "cuotas": {
+      "1": "3.10",
+      "2": "1.85",
+      "12": "1.20",
+      "X": "4.00",
+      "1X": "1.80",
+      "X2": "1.33",
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": "1.44",
+      "U25": "2.70",
+      "O35": null,
+      "U35": null
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 22,
+      "2": 58,
+      "12": 81,
+      "X": 19,
+      "1X": 42,
+      "X2": 78,
+      "GG": 62,
+      "NG": 38,
+      "O15": 87,
+      "U15": 13,
+      "O25": 68,
+      "U25": 32,
+      "O35": 48,
+      "U35": 52
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 10:30 a. m.",
+    "local": {
+      "nombre": "Mura",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/7/10695.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Aluminij",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/27/3291.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "2.20",
+      "2": "2.87",
+      "12": "1.25",
+      "X": "3.40",
+      "1X": "1.33",
+      "X2": "1.55",
+      "GG": "1.80",
+      "NG": "1.90",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.40",
+      "U35": "1.30"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 28,
+      "2": 47,
+      "12": 75,
+      "X": 25,
+      "1X": 53,
+      "X2": 72,
+      "GG": 52,
+      "NG": 48,
+      "O15": 76,
+      "U15": 24,
+      "O25": 53,
+      "U25": 47,
+      "O35": 30,
+      "U35": 70
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 11:00 a. m.",
+    "local": {
+      "nombre": "Oulu",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/5696.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Jaro",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/7566.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "1.85",
+      "2": "3.70",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "1.28",
+      "X2": "1.90",
+      "GG": "1.70",
+      "NG": "2.05",
+      "O15": "1.22",
+      "U15": "4.00",
+      "O25": "1.80",
+      "U25": "2.00",
+      "O35": "3.00",
+      "U35": "1.36"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 53,
+      "2": 24,
+      "12": 76,
+      "X": 24,
+      "1X": 76,
+      "X2": 47,
+      "GG": 61,
+      "NG": 39,
+      "O15": 81,
+      "U15": 19,
+      "O25": 59,
+      "U25": 41,
+      "O35": 37,
+      "U35": 63
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 11:00 a. m.",
+    "local": {
+      "nombre": "Lokomotiv Plovdiv",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/329.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "CSKA Sofia",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/392.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.33"
+    },
+    "cuotas": {
+      "1": "6.25",
+      "2": "1.57",
+      "12": "1.25",
+      "X": "3.80",
+      "1X": "2.30",
+      "X2": "1.12",
+      "GG": "2.20",
+      "NG": "1.61",
+      "O15": "1.33",
+      "U15": "3.25",
+      "O25": "2.10",
+      "U25": "1.70",
+      "O35": "3.75",
+      "U35": "1.25"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 21,
+      "2": 54,
+      "12": 75,
+      "X": 25,
+      "1X": 46,
+      "X2": 79,
+      "GG": 46,
+      "NG": 54,
+      "O15": 70,
+      "U15": 30,
+      "O25": 46,
+      "U25": 54,
+      "O35": 24,
+      "U35": 76
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 11:00 a. m.",
+    "local": {
+      "nombre": "Ružomberok",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/6615.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Skalica",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/8224.png",
+      "golesVisitante": "0"
+    },
+    "estado": "POSTP",
+    "destacado": {
+      "pr": "U35",
+      "odd": null
+    },
+    "cuotas": {
+      "1": "1.90",
+      "2": "3.80",
+      "12": "1.33",
+      "X": "3.30",
+      "1X": "1.25",
+      "X2": "1.80",
+      "GG": "1.83",
+      "NG": "1.83",
+      "O15": "1.33",
+      "U15": "3.25",
+      "O25": "2.05",
+      "U25": "1.75",
+      "O35": "3.50",
+      "U35": "1.28"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 49,
+      "2": 26,
+      "12": 75,
+      "X": 25,
+      "1X": 74,
+      "X2": 51,
+      "GG": 52,
+      "NG": 48,
+      "O15": 74,
+      "U15": 26,
+      "O25": 50,
+      "U25": 50,
+      "O35": 28,
+      "U35": 72
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 11:00 a. m.",
+    "local": {
+      "nombre": "Zbrojovka Brno",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/3350.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Táborsko",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/15/3887.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.25"
+    },
+    "cuotas": {
+      "1": "1.40",
+      "2": "7.50",
+      "12": "1.22",
+      "X": "3.90",
+      "1X": "1.08",
+      "X2": "2.75",
+      "GG": "2.00",
+      "NG": "1.75",
+      "O15": "1.25",
+      "U15": "3.60",
+      "O25": "1.83",
+      "U25": "1.91",
+      "O35": "3.10",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 43,
+      "2": 30,
+      "12": 72,
+      "X": 28,
+      "1X": 70,
+      "X2": 57,
+      "GG": 51,
+      "NG": 49,
+      "O15": 72,
+      "U15": 28,
+      "O25": 47,
+      "U25": 53,
+      "O35": 25,
+      "U35": 75
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 11:15 a. m.",
+    "local": {
+      "nombre": "Standard Liège",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/700.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Dender",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/2741.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.25"
+    },
+    "cuotas": {
+      "1": "2.10",
+      "2": "3.60",
+      "12": "1.36",
+      "X": "3.20",
+      "1X": "1.28",
+      "X2": "1.70",
+      "GG": "1.80",
+      "NG": "1.95",
+      "O15": "1.36",
+      "U15": "3.00",
+      "O25": "2.15",
+      "U25": "1.66",
+      "O35": "3.75",
+      "U35": "1.25"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 45,
+      "2": 28,
+      "12": 73,
+      "X": 27,
+      "1X": 72,
+      "X2": 55,
+      "GG": 50,
+      "NG": 50,
+      "O15": 71,
+      "U15": 29,
+      "O25": 46,
+      "U25": 54,
+      "O35": 25,
+      "U35": 75
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 11:15 a. m.",
+    "local": {
+      "nombre": "Dinamo Samarqand",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/6510.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Navbakhor",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/11074.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "3.20",
+      "2": "2.00",
+      "12": "1.28",
+      "X": "3.20",
+      "1X": "1.66",
+      "X2": "1.28",
+      "GG": "1.90",
+      "NG": "1.90",
+      "O15": "1.32",
+      "U15": "3.16",
+      "O25": "2.00",
+      "U25": "1.80",
+      "O35": "3.50",
+      "U35": "1.22"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 25,
+      "2": 48,
+      "12": 73,
+      "X": 27,
+      "1X": 52,
+      "X2": 75,
+      "GG": 50,
+      "NG": 50,
+      "O15": 69,
+      "U15": 31,
+      "O25": 44,
+      "U25": 56,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 11:30 a. m.",
+    "local": {
+      "nombre": "Unión Española",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/10258.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "La Serena",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/3443.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.25"
+    },
+    "cuotas": {
+      "1": "2.45",
+      "2": "2.87",
+      "12": "1.36",
+      "X": "3.20",
+      "1X": "1.40",
+      "X2": "1.53",
+      "GG": "1.66",
+      "NG": "2.10",
+      "O15": "1.25",
+      "U15": "3.75",
+      "O25": "1.85",
+      "U25": "1.95",
+      "O35": "3.00",
+      "U35": "1.36"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 51,
+      "2": 25,
+      "12": 76,
+      "X": 24,
+      "1X": 75,
+      "X2": 49,
+      "GG": 60,
+      "NG": 40,
+      "O15": 81,
+      "U15": 19,
+      "O25": 59,
+      "U25": 41,
+      "O35": 35,
+      "U35": 65
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 11:30 a. m.",
+    "local": {
+      "nombre": "Al Faysali",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/17559.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Al Jazeera",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/16792.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.30"
+    },
+    "cuotas": {
+      "1": "1.55",
+      "2": "5.25",
+      "12": "1.22",
+      "X": "3.60",
+      "1X": "1.11",
+      "X2": "2.20",
+      "GG": "2.00",
+      "NG": "1.72",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.40",
+      "U35": "1.30"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 53,
+      "2": 22,
+      "12": 75,
+      "X": 25,
+      "1X": 78,
+      "X2": 47,
+      "GG": 50,
+      "NG": 50,
+      "O15": 73,
+      "U15": 27,
+      "O25": 50,
+      "U25": 50,
+      "O35": 27,
+      "U35": 73
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 11:30 a. m.",
+    "local": {
+      "nombre": "Chayka",
+      "logo": "https://cdn.sportmonks.com/images/soccer/team_placeholder.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Volga Ulyanovsk",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/12928.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.17"
+    },
+    "cuotas": {
+      "1": "2.90",
+      "2": "2.66",
+      "12": "1.38",
+      "X": "3.10",
+      "1X": "1.50",
+      "X2": "1.42",
+      "GG": "2.08",
+      "NG": "1.75",
+      "O15": "1.51",
+      "U15": "2.58",
+      "O25": "2.57",
+      "U25": "1.52",
+      "O35": "4.94",
+      "U35": "1.17"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 31,
+      "2": 41,
+      "12": 72,
+      "X": 28,
+      "1X": 59,
+      "X2": 69,
+      "GG": 48,
+      "NG": 52,
+      "O15": 69,
+      "U15": 31,
+      "O25": 43,
+      "U25": 57,
+      "O35": 22,
+      "U35": 78
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 12:00 p. m.",
+    "local": {
+      "nombre": "Samgurali",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/9727.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Kolkheti Poti",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/6122.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.40"
+    },
+    "cuotas": {
+      "1": "1.75",
+      "2": "3.90",
+      "12": "1.22",
+      "X": "3.50",
+      "1X": "1.18",
+      "X2": "1.90",
+      "GG": "1.91",
+      "NG": "1.80",
+      "O15": "1.40",
+      "U15": "2.75",
+      "O25": "2.15",
+      "U25": "1.66",
+      "O35": "3.75",
+      "U35": "1.25"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 44,
+      "2": 29,
+      "12": 73,
+      "X": 27,
+      "1X": 71,
+      "X2": 56,
+      "GG": 50,
+      "NG": 50,
+      "O15": 70,
+      "U15": 30,
+      "O25": 45,
+      "U25": 55,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 12:00 p. m.",
+    "local": {
+      "nombre": "Borac Čačak",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/5875.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Dubocica",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/29157.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "2.15",
+      "2": "3.20",
+      "12": "1.28",
+      "X": "3.10",
+      "1X": "1.28",
+      "X2": "1.57",
+      "GG": "1.78",
+      "NG": "1.91",
+      "O15": "1.32",
+      "U15": "2.91",
+      "O25": "2.10",
+      "U25": "1.70",
+      "O35": "3.58",
+      "U35": "1.21"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 41,
+      "2": 30,
+      "12": 71,
+      "X": 29,
+      "1X": 70,
+      "X2": 59,
+      "GG": 47,
+      "NG": 53,
+      "O15": 67,
+      "U15": 33,
+      "O25": 42,
+      "U25": 58,
+      "O35": 21,
+      "U35": 79
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 12:45 p. m.",
+    "local": {
+      "nombre": "Unia Skierniewice",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/238457.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Olimpia Grudziądz",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/4354.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.30"
+    },
+    "cuotas": {
+      "1": "2.10",
+      "2": "3.00",
+      "12": "1.28",
+      "X": "3.20",
+      "1X": "1.30",
+      "X2": "1.60",
+      "GG": "1.80",
+      "NG": "1.90",
+      "O15": "1.30",
+      "U15": "3.40",
+      "O25": "2.00",
+      "U25": "1.80",
+      "O35": "3.40",
+      "U35": "1.30"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 63,
+      "2": 17,
+      "12": 80,
+      "X": 20,
+      "1X": 83,
+      "X2": 37,
+      "GG": 51,
+      "NG": 49,
+      "O15": 79,
+      "U15": 21,
+      "O25": 57,
+      "U25": 43,
+      "O35": 33,
+      "U35": 67
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 01:00 p. m.",
+    "local": {
+      "nombre": "Mladost Lučani",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/230490.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Radnik Surdulica",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/6318.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.44"
+    },
+    "cuotas": {
+      "1": "2.80",
+      "2": "2.50",
+      "12": "1.36",
+      "X": "3.00",
+      "1X": "1.50",
+      "X2": "1.40",
+      "GG": "2.10",
+      "NG": "1.66",
+      "O15": "1.44",
+      "U15": "2.62",
+      "O25": "2.37",
+      "U25": "1.53",
+      "O35": "4.50",
+      "U35": "1.16"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 25,
+      "2": 49,
+      "12": 73,
+      "X": 26,
+      "1X": 51,
+      "X2": 75,
+      "GG": 48,
+      "NG": 52,
+      "O15": 70,
+      "U15": 30,
+      "O25": 48,
+      "U25": 52,
+      "O35": 24,
+      "U35": 76
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 01:00 p. m.",
+    "local": {
+      "nombre": "OFK Beograd",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/3674.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Javor Ivanjica",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/2707.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "1.60",
+      "2": "5.25",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "1.14",
+      "X2": "2.25",
+      "GG": "1.90",
+      "NG": "1.80",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.90",
+      "U25": "1.90",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 46,
+      "2": 28,
+      "12": 74,
+      "X": 26,
+      "1X": 72,
+      "X2": 54,
+      "GG": 52,
+      "NG": 48,
+      "O15": 72,
+      "U15": 28,
+      "O25": 47,
+      "U25": 53,
+      "O35": 26,
+      "U35": 74
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 01:00 p. m.",
+    "local": {
+      "nombre": "Sigma Olomouc",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/3097.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Slovan Liberec",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/15/463.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "2.35",
+      "2": "2.90",
+      "12": "1.33",
+      "X": "3.30",
+      "1X": "1.40",
+      "X2": "1.57",
+      "GG": "1.75",
+      "NG": "2.00",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.40",
+      "U35": "1.30"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 34,
+      "2": 40,
+      "12": 74,
+      "X": 26,
+      "1X": 60,
+      "X2": 66,
+      "GG": 54,
+      "NG": 46,
+      "O15": 74,
+      "U15": 26,
+      "O25": 50,
+      "U25": 50,
+      "O35": 28,
+      "U35": 72
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 01:00 p. m.",
+    "local": {
+      "nombre": "Austria Wien II",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/5756.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "St. Pölten",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/2852.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "X2",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "4.20",
+      "2": "1.70",
+      "12": "1.22",
+      "X": "4.10",
+      "1X": "2.10",
+      "X2": "1.22",
+      "GG": "1.61",
+      "NG": "2.20",
+      "O15": "1.16",
+      "U15": "4.50",
+      "O25": "1.57",
+      "U25": "2.35",
+      "O35": "2.37",
+      "U35": "1.53"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 16,
+      "2": 62,
+      "12": 78,
+      "X": 22,
+      "1X": 38,
+      "X2": 84,
+      "GG": 53,
+      "NG": 47,
+      "O15": 79,
+      "U15": 21,
+      "O25": 56,
+      "U25": 44,
+      "O35": 34,
+      "U35": 66
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 01:15 p. m.",
+    "local": {
+      "nombre": "Primorje",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/8139.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Bravo",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/95999.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "2.87",
+      "2": "2.25",
+      "12": "1.30",
+      "X": "3.40",
+      "1X": "1.57",
+      "X2": "1.40",
+      "GG": "1.72",
+      "NG": "2.00",
+      "O15": "1.28",
+      "U15": "3.50",
+      "O25": "1.95",
+      "U25": "1.85",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 34,
+      "2": 37,
+      "12": 71,
+      "X": 29,
+      "1X": 63,
+      "X2": 66,
+      "GG": 51,
+      "NG": 49,
+      "O15": 70,
+      "U15": 30,
+      "O25": 51,
+      "U25": 49,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 01:30 p. m.",
+    "local": {
+      "nombre": "Dinamo Bucureşti",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/1026.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "FCSB",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/3444.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "3.10",
+      "2": "2.15",
+      "12": "1.33",
+      "X": "3.30",
+      "1X": "1.66",
+      "X2": "1.36",
+      "GG": "1.80",
+      "NG": "1.90",
+      "O15": "1.30",
+      "U15": "3.40",
+      "O25": "2.00",
+      "U25": "1.80",
+      "O35": "3.50",
+      "U35": "1.28"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 26,
+      "2": 46,
+      "12": 72,
+      "X": 28,
+      "1X": 54,
+      "X2": 74,
+      "GG": 49,
+      "NG": 51,
+      "O15": 69,
+      "U15": 31,
+      "O25": 44,
+      "U25": 56,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 01:45 p. m.",
+    "local": {
+      "nombre": "Sligo Rovers",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/910.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Shelbourne",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/744.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "3.70",
+      "2": "2.00",
+      "12": "1.33",
+      "X": "3.25",
+      "1X": "1.80",
+      "X2": "1.28",
+      "GG": "1.80",
+      "NG": "1.95",
+      "O15": "1.30",
+      "U15": "3.40",
+      "O25": "2.05",
+      "U25": "1.75",
+      "O35": "3.50",
+      "U35": "1.28"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 22,
+      "2": 52,
+      "12": 74,
+      "X": 26,
+      "1X": 48,
+      "X2": 78,
+      "GG": 48,
+      "NG": 52,
+      "O15": 70,
+      "U15": 30,
+      "O25": 48,
+      "U25": 52,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 01:45 p. m.",
+    "local": {
+      "nombre": "Gent",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/2402.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "La Louvière",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/6722.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.25"
+    },
+    "cuotas": {
+      "1": "1.75",
+      "2": "4.75",
+      "12": "1.28",
+      "X": "3.50",
+      "1X": "1.18",
+      "X2": "2.00",
+      "GG": "1.80",
+      "NG": "1.95",
+      "O15": "1.25",
+      "U15": "3.75",
+      "O25": "1.90",
+      "U25": "1.90",
+      "O35": "3.25",
+      "U35": "1.33"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 37,
+      "2": 40,
+      "12": 77,
+      "X": 23,
+      "1X": 60,
+      "X2": 63,
+      "GG": 58,
+      "NG": 42,
+      "O15": 79,
+      "U15": 21,
+      "O25": 58,
+      "U25": 42,
+      "O35": 35,
+      "U35": 65
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 02:00 p. m.",
+    "local": {
+      "nombre": "Cobreloa",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/10136.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Rangers",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/15113.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "1X",
+      "odd": "1.30"
+    },
+    "cuotas": {
+      "1": "2.00",
+      "2": "3.40",
+      "12": "1.30",
+      "X": "3.40",
+      "1X": "1.30",
+      "X2": "1.72",
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": "2.07",
+      "U25": "1.72",
+      "O35": null,
+      "U35": null
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 46,
+      "2": 26,
+      "12": 72,
+      "X": 28,
+      "1X": 74,
+      "X2": 54,
+      "GG": 49,
+      "NG": 51,
+      "O15": 70,
+      "U15": 30,
+      "O25": 49,
+      "U25": 51,
+      "O35": 22,
+      "U35": 78
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 02:00 p. m.",
+    "local": {
+      "nombre": "Osijek",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/7920.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Dinamo Zagreb",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/2/674.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.20"
+    },
+    "cuotas": {
+      "1": "5.25",
+      "2": "1.60",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "2.30",
+      "X2": "1.16",
+      "GG": "1.66",
+      "NG": "2.10",
+      "O15": "1.20",
+      "U15": "4.33",
+      "O25": "1.66",
+      "U25": "2.15",
+      "O35": "2.62",
+      "U35": "1.44"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 24,
+      "2": 52,
+      "12": 75,
+      "X": 25,
+      "1X": 48,
+      "X2": 76,
+      "GG": 54,
+      "NG": 46,
+      "O15": 75,
+      "U15": 25,
+      "O25": 54,
+      "U25": 46,
+      "O35": 30,
+      "U35": 70
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 02:30 p. m.",
+    "local": {
+      "nombre": "Rayo Zuliano",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/256588.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Estudiantes Mérida",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/8124.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "12",
+      "odd": "1.28"
+    },
+    "cuotas": {
+      "1": "2.45",
+      "2": "2.62",
+      "12": "1.28",
+      "X": "3.20",
+      "1X": "1.40",
+      "X2": "1.44",
+      "GG": "1.75",
+      "NG": "2.00",
+      "O15": "1.33",
+      "U15": "3.10",
+      "O25": "2.07",
+      "U25": "1.72",
+      "O35": "3.60",
+      "U35": "1.25"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 43,
+      "2": 28,
+      "12": 71,
+      "X": 29,
+      "1X": 72,
+      "X2": 57,
+      "GG": 50,
+      "NG": 50,
+      "O15": 69,
+      "U15": 31,
+      "O25": 43,
+      "U25": 57,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 04:00 p. m.",
+    "local": {
+      "nombre": "Caracas",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/12294.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Deportivo Táchira",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/8390.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.18"
+    },
+    "cuotas": {
+      "1": "2.10",
+      "2": "3.20",
+      "12": "1.28",
+      "X": "3.20",
+      "1X": "1.60",
+      "X2": "1.28",
+      "GG": "2.00",
+      "NG": "1.75",
+      "O15": "1.44",
+      "U15": "2.63",
+      "O25": "2.37",
+      "U25": "1.53",
+      "O35": "4.60",
+      "U35": "1.18"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 32,
+      "2": 40,
+      "12": 71,
+      "X": 29,
+      "1X": 60,
+      "X2": 68,
+      "GG": 49,
+      "NG": 51,
+      "O15": 68,
+      "U15": 32,
+      "O25": 43,
+      "U25": 57,
+      "O35": 22,
+      "U35": 78
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 04:30 p. m.",
+    "local": {
+      "nombre": "Deportes Iquique",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/9628.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Universidad Católica",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/2710.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.40"
+    },
+    "cuotas": {
+      "1": "3.50",
+      "2": "2.10",
+      "12": "1.33",
+      "X": "3.25",
+      "1X": "1.70",
+      "X2": "1.28",
+      "GG": "2.00",
+      "NG": "1.72",
+      "O15": "1.40",
+      "U15": "2.75",
+      "O25": "2.25",
+      "U25": "1.61",
+      "O35": "4.33",
+      "U35": "1.20"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 31,
+      "2": 42,
+      "12": 73,
+      "X": 27,
+      "1X": 58,
+      "X2": 69,
+      "GG": 55,
+      "NG": 45,
+      "O15": 74,
+      "U15": 26,
+      "O25": 55,
+      "U25": 45,
+      "O35": 27,
+      "U35": 74
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 06:20 p. m.",
+    "local": {
+      "nombre": "Deportes Tolima",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/10204.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Atlético Nacional",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/6597.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "3.50",
+      "2": "2.20",
+      "12": "1.36",
+      "X": "3.10",
+      "1X": "1.66",
+      "X2": "1.28",
+      "GG": "1.83",
+      "NG": "1.83",
+      "O15": "1.36",
+      "U15": "3.00",
+      "O25": "2.20",
+      "U25": "1.65",
+      "O35": "4.00",
+      "U35": "1.22"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 38,
+      "2": 31,
+      "12": 69,
+      "X": 31,
+      "1X": 69,
+      "X2": 62,
+      "GG": 46,
+      "NG": 54,
+      "O15": 64,
+      "U15": 36,
+      "O25": 46,
+      "U25": 54,
+      "O35": 18,
+      "U35": 82
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 06:30 p. m.",
+    "local": {
+      "nombre": "Amazonas",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/238918.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Goiás",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/9323.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.50"
+    },
+    "cuotas": {
+      "1": "3.10",
+      "2": "2.37",
+      "12": "1.36",
+      "X": "3.00",
+      "1X": "1.53",
+      "X2": "1.36",
+      "GG": "2.20",
+      "NG": "1.61",
+      "O15": "1.50",
+      "U15": "2.50",
+      "O25": "2.60",
+      "U25": "1.47",
+      "O35": "5.00",
+      "U35": "1.16"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 35,
+      "2": 33,
+      "12": 68,
+      "X": 32,
+      "1X": 67,
+      "X2": 65,
+      "GG": 44,
+      "NG": 56,
+      "O15": 62,
+      "U15": 38,
+      "O25": 36,
+      "U25": 64,
+      "O35": 16,
+      "U35": 84
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 06:30 p. m.",
+    "local": {
+      "nombre": "Carabobo",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/7738.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Metropolitanos",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/11370.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "1X",
+      "odd": "1.14"
+    },
+    "cuotas": {
+      "1": "1.60",
+      "2": "5.25",
+      "12": "1.28",
+      "X": "3.60",
+      "1X": "1.14",
+      "X2": "2.25",
+      "GG": "2.00",
+      "NG": "1.75",
+      "O15": "1.36",
+      "U15": "2.90",
+      "O25": "2.07",
+      "U25": "1.72",
+      "O35": "4.00",
+      "U35": "1.22"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 45,
+      "2": 26,
+      "12": 71,
+      "X": 29,
+      "1X": 74,
+      "X2": 55,
+      "GG": 50,
+      "NG": 50,
+      "O15": 69,
+      "U15": 31,
+      "O25": 50,
+      "U25": 50,
+      "O35": 22,
+      "U35": 78
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 07:00 p. m.",
+    "local": {
+      "nombre": "Sporting San José",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/15319.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Cartaginés",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/6282.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.25"
+    },
+    "cuotas": {
+      "1": "3.25",
+      "2": "2.45",
+      "12": "1.40",
+      "X": "2.87",
+      "1X": "1.53",
+      "X2": "1.33",
+      "GG": "1.83",
+      "NG": "1.83",
+      "O15": "1.33",
+      "U15": "3.25",
+      "O25": "2.15",
+      "U25": "1.66",
+      "O35": "3.75",
+      "U35": "1.25"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 36,
+      "2": 35,
+      "12": 71,
+      "X": 29,
+      "1X": 65,
+      "X2": 64,
+      "GG": 48,
+      "NG": 52,
+      "O15": 67,
+      "U15": 33,
+      "O25": 42,
+      "U25": 58,
+      "O35": 21,
+      "U35": 79
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 09:00 p. m.",
+    "local": {
+      "nombre": "Herediano",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/1036.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Puntarenas",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/15241.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "U35",
+      "odd": "1.22"
+    },
+    "cuotas": {
+      "1": "1.70",
+      "2": "5.50",
+      "12": "1.33",
+      "X": "3.25",
+      "1X": "1.14",
+      "X2": "2.10",
+      "GG": "2.10",
+      "NG": "1.66",
+      "O15": "1.36",
+      "U15": "3.00",
+      "O25": "2.25",
+      "U25": "1.61",
+      "O35": "4.00",
+      "U35": "1.22"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 58,
+      "2": 17,
+      "12": 74,
+      "X": 26,
+      "1X": 83,
+      "X2": 42,
+      "GG": 45,
+      "NG": 55,
+      "O15": 71,
+      "U15": 29,
+      "O25": 45,
+      "U25": 55,
+      "O35": 23,
+      "U35": 77
+    }
+  },
+  {
+    "dateTime": "02/08/2025, 10:00 p. m.",
+    "local": {
+      "nombre": "Dorados",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/12238.png",
+      "golesLocal": "0"
+    },
+    "visitante": {
+      "nombre": "Cancún",
+      "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/249047.png",
+      "golesVisitante": "0"
+    },
+    "estado": "NS",
+    "destacado": {
+      "pr": "O15",
+      "odd": "1.30"
+    },
+    "cuotas": {
+      "1": "2.80",
+      "2": "2.45",
+      "12": "1.33",
+      "X": "3.30",
+      "1X": "1.53",
+      "X2": "1.40",
+      "GG": "1.70",
+      "NG": "2.05",
+      "O15": "1.30",
+      "U15": "3.40",
+      "O25": "1.90",
+      "U25": "1.90",
+      "O35": "3.30",
+      "U35": "1.30"
+    },
+    "resultados": {
+      "1": null,
+      "2": null,
+      "12": null,
+      "X": null,
+      "1X": null,
+      "X2": null,
+      "GG": null,
+      "NG": null,
+      "O15": null,
+      "U15": null,
+      "O25": null,
+      "U25": null,
+      "O35": null,
+      "U35": null
+    },
+    "probabilidades": {
+      "1": 43,
+      "2": 32,
+      "12": 75,
+      "X": 25,
+      "1X": 68,
+      "X2": 57,
+      "GG": 56,
+      "NG": 44,
+      "O15": 76,
+      "U15": 24,
+      "O25": 53,
+      "U25": 47,
+      "O35": 32,
+      "U35": 68
+    }
+  }
+]

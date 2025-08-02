@@ -266,138 +266,6 @@
   {
     "dateTime": "02/08/2025, 05:00 a. m.",
     "local": {
-      "nombre": "JEF United",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/4260.png",
-      "golesLocal": "2"
-    },
-    "visitante": {
-      "nombre": "Iwaki",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/7/64391.png",
-      "golesVisitante": "2"
-    },
-    "estado": "FT",
-    "destacado": {
-      "pr": "U35",
-      "odd": "1.28"
-    },
-    "cuotas": {
-      "1": "2.30",
-      "2": "3.00",
-      "12": "1.33",
-      "X": "3.30",
-      "1X": "1.36",
-      "X2": "1.57",
-      "GG": "1.80",
-      "NG": "1.90",
-      "O15": "1.30",
-      "U15": "3.40",
-      "O25": "2.00",
-      "U25": "1.80",
-      "O35": "3.50",
-      "U35": "1.28"
-    },
-    "resultados": {
-      "1": false,
-      "2": false,
-      "12": false,
-      "X": true,
-      "1X": true,
-      "X2": true,
-      "GG": true,
-      "NG": false,
-      "O15": true,
-      "U15": false,
-      "O25": true,
-      "U25": false,
-      "O35": true,
-      "U35": false
-    },
-    "probabilidades": {
-      "1": 50,
-      "2": 25,
-      "12": 75,
-      "X": 25,
-      "1X": 75,
-      "X2": 50,
-      "GG": 52,
-      "NG": 48,
-      "O15": 72,
-      "U15": 28,
-      "O25": 47,
-      "U25": 53,
-      "O35": 25,
-      "U35": 75
-    }
-  },
-  {
-    "dateTime": "02/08/2025, 05:00 a. m.",
-    "local": {
-      "nombre": "Fujieda MYFC",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/18272.png",
-      "golesLocal": "2"
-    },
-    "visitante": {
-      "nombre": "Renofa Yamaguchi",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/24/14680.png",
-      "golesVisitante": "2"
-    },
-    "estado": "FT",
-    "destacado": {
-      "pr": "U35",
-      "odd": "1.20"
-    },
-    "cuotas": {
-      "1": "2.50",
-      "2": "2.75",
-      "12": "1.36",
-      "X": "3.10",
-      "1X": "1.40",
-      "X2": "1.50",
-      "GG": "1.90",
-      "NG": "1.80",
-      "O15": "1.40",
-      "U15": "2.75",
-      "O25": "2.30",
-      "U25": "1.60",
-      "O35": "4.33",
-      "U35": "1.20"
-    },
-    "resultados": {
-      "1": false,
-      "2": false,
-      "12": false,
-      "X": true,
-      "1X": true,
-      "X2": true,
-      "GG": true,
-      "NG": false,
-      "O15": true,
-      "U15": false,
-      "O25": true,
-      "U25": false,
-      "O35": true,
-      "U35": false
-    },
-    "probabilidades": {
-      "1": 38,
-      "2": 34,
-      "12": 72,
-      "X": 28,
-      "1X": 66,
-      "X2": 62,
-      "GG": 50,
-      "NG": 50,
-      "O15": 70,
-      "U15": 30,
-      "O25": 44,
-      "U25": 56,
-      "O35": 23,
-      "U35": 77
-    }
-  },
-  {
-    "dateTime": "02/08/2025, 05:00 a. m.",
-    "local": {
       "nombre": "Bucheon 1995",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/7361.png",
       "golesLocal": "2"
@@ -457,72 +325,6 @@
       "U15": 28,
       "O25": 50,
       "U25": 50,
-      "O35": 24,
-      "U35": 76
-    }
-  },
-  {
-    "dateTime": "02/08/2025, 05:00 a. m.",
-    "local": {
-      "nombre": "Seoul E.",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/14732.png",
-      "golesLocal": "0"
-    },
-    "visitante": {
-      "nombre": "Incheon United",
-      "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/6922.png",
-      "golesVisitante": "0"
-    },
-    "estado": "FT",
-    "destacado": {
-      "pr": "O15",
-      "odd": "1.40"
-    },
-    "cuotas": {
-      "1": "3.20",
-      "2": "2.20",
-      "12": "1.33",
-      "X": "3.25",
-      "1X": "1.66",
-      "X2": "1.36",
-      "GG": "2.00",
-      "NG": "1.72",
-      "O15": "1.40",
-      "U15": "2.75",
-      "O25": "2.25",
-      "U25": "1.61",
-      "O35": "4.33",
-      "U35": "1.20"
-    },
-    "resultados": {
-      "1": false,
-      "2": false,
-      "12": false,
-      "X": true,
-      "1X": true,
-      "X2": true,
-      "GG": false,
-      "NG": true,
-      "O15": false,
-      "U15": true,
-      "O25": false,
-      "U25": true,
-      "O35": false,
-      "U35": true
-    },
-    "probabilidades": {
-      "1": 28,
-      "2": 44,
-      "12": 72,
-      "X": 28,
-      "1X": 56,
-      "X2": 72,
-      "GG": 51,
-      "NG": 49,
-      "O15": 72,
-      "U15": 28,
-      "O25": 46,
-      "U25": 54,
       "O35": 24,
       "U35": 76
     }
@@ -4958,7 +4760,7 @@
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/2798.png",
       "golesVisitante": "1"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "1X",
       "odd": "1.12"
@@ -4980,20 +4782,20 @@
       "U35": "1.83"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": true,
+      "2": false,
+      "12": true,
+      "X": false,
+      "1X": true,
+      "X2": false,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": true,
+      "U35": false
     },
     "probabilidades": {
       "1": 61,
@@ -5022,7 +4824,7 @@
     "visitante": {
       "nombre": "FCSB",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/3444.png",
-      "golesVisitante": "2"
+      "golesVisitante": "3"
     },
     "estado": "LIVE",
     "destacado": {
@@ -5149,7 +4951,7 @@
     "local": {
       "nombre": "Coquimbo Unido",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/2532.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "Deportes Limache",

@@ -1997,13 +1997,13 @@
         "eventId": "14061038",
         "eventIdFl": "SA0WgOkf",
         "options": {
-          "over": {
-            "name": "+0.5 goles",
-            "odd": "1.40"
+          "under": {
+            "name": "-1.5 goles",
+            "odd": "1.38"
           }
         },
         "finished": true,
-        "result": "Perdida",
+        "result": "Ganada",
         "winner": "X",
         "score": "0-0",
         "firstHalf": 0

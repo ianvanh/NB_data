@@ -1934,7 +1934,9 @@
           },
           "eventId": "13523224",
           "eventIdFl": "hEczzIn3",
-          "finished": false
+          "finished": true,
+          "winner": "2",
+          "score": "2-3"
         },
         {
           "homeTeam": {
@@ -1954,7 +1956,9 @@
           },
           "eventId": "13314970",
           "eventIdFl": "dAQi8C6D",
-          "finished": false
+          "finished": true,
+          "winner": "1",
+          "score": "3-0"
         },
         {
           "homeTeam": {
@@ -1974,7 +1978,9 @@
           },
           "eventId": "14250665",
           "eventIdFl": "8EV5EDIM",
-          "finished": false
+          "finished": true,
+          "winner": "1",
+          "score": "3-0"
         }
       ],
       "optional": {
@@ -1996,8 +2002,11 @@
             "odd": "1.40"
           }
         },
-        "finished": false,
-        "result": "Pendiente"
+        "finished": true,
+        "result": "Perdida",
+        "winner": "X",
+        "score": "0-0",
+        "firstHalf": 0
       }
     }
   }

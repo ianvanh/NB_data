@@ -4,14 +4,14 @@
     "local": {
       "nombre": "Kokand-1912",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/6300.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "Neftchi",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/6483.png",
-      "golesVisitante": "1"
+      "golesVisitante": "2"
     },
-    "estado": "LIVE",
+    "estado": "FT",
     "destacado": {
       "pr": "O15",
       "odd": "1.30"
@@ -33,20 +33,20 @@
       "U35": "1.27"
     },
     "resultados": {
-      "1": null,
-      "2": null,
-      "12": null,
-      "X": null,
-      "1X": null,
-      "X2": null,
-      "GG": null,
-      "NG": null,
-      "O15": null,
-      "U15": null,
-      "O25": null,
-      "U25": null,
-      "O35": null,
-      "U35": null
+      "1": false,
+      "2": true,
+      "12": true,
+      "X": false,
+      "1X": false,
+      "X2": true,
+      "GG": true,
+      "NG": false,
+      "O15": true,
+      "U15": false,
+      "O25": true,
+      "U25": false,
+      "O35": false,
+      "U35": true
     },
     "probabilidades": {
       "1": 15,
@@ -75,9 +75,9 @@
     "visitante": {
       "nombre": "FC Midtjylland",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/939.png",
-      "golesVisitante": "0"
+      "golesVisitante": "2"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "O15",
       "odd": "1.25"
@@ -136,14 +136,14 @@
     "local": {
       "nombre": "Lincoln Red Imps",
       "logo": "https://cdn.sportmonks.com/images//soccer/teams/20/10068.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "Noah",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/132636.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "O15",
       "odd": "1.28"
@@ -207,9 +207,9 @@
     "visitante": {
       "nombre": "Arda",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/27858.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "1X",
       "odd": "1.20"
@@ -268,14 +268,14 @@
     "local": {
       "nombre": "Aris Limassol",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/526.png",
-      "golesLocal": "0"
+      "golesLocal": "2"
     },
     "visitante": {
       "nombre": "AEK Athens",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/781.png",
-      "golesVisitante": "0"
+      "golesVisitante": "2"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "12",
       "odd": "1.36"
@@ -339,9 +339,9 @@
     "visitante": {
       "nombre": "Omonia Nicosia",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/16/368.png",
-      "golesVisitante": "0"
+      "golesVisitante": "4"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "U35",
       "odd": "1.25"
@@ -407,7 +407,7 @@
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/2353.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "O15",
       "odd": "1.28"
@@ -466,14 +466,14 @@
     "local": {
       "nombre": "Žalgiris",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/1001.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "Sūduva",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/5878.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "U35",
       "odd": "1.30"
@@ -537,9 +537,9 @@
     "visitante": {
       "nombre": "Al Buqa'a",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/17/17553.png",
-      "golesVisitante": "0"
+      "golesVisitante": "2"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "U35",
       "odd": "1.22"
@@ -598,14 +598,14 @@
     "local": {
       "nombre": "CFR Cluj",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/15/3599.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "Sporting Braga",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/884.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "NS",
+    "estado": "HT",
     "destacado": {
       "pr": "U35",
       "odd": "1.25"
@@ -664,14 +664,14 @@
     "local": {
       "nombre": "AEK Larnaca",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/726.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "Legia Warszawa",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/29/349.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "U35",
       "odd": "1.25"
@@ -730,14 +730,14 @@
     "local": {
       "nombre": "Baník Ostrava",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/5/3269.png",
-      "golesLocal": "0"
+      "golesLocal": "2"
     },
     "visitante": {
       "nombre": "Austria Wien",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/3630.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "NS",
+    "estado": "HT",
     "destacado": {
       "pr": "O15",
       "odd": "1.30"
@@ -796,14 +796,14 @@
     "local": {
       "nombre": "Hegelmann Litauen",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/0/11360.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "FA Šiauliai",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/237160.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "HT",
     "destacado": {
       "pr": "12",
       "odd": "1.22"
@@ -869,7 +869,7 @@
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/2474.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "O15",
       "odd": "1.20"
@@ -935,7 +935,7 @@
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/589.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "O15",
       "odd": "1.22"
@@ -999,9 +999,9 @@
     "visitante": {
       "nombre": "Jagiellonia Białystok",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/890.png",
-      "golesVisitante": "0"
+      "golesVisitante": "1"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "O15",
       "odd": "1.25"
@@ -1060,14 +1060,14 @@
     "local": {
       "nombre": "Viking",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/321.png",
-      "golesLocal": "0"
+      "golesLocal": "1"
     },
     "visitante": {
       "nombre": "İstanbul Başakşehir",
       "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/3702.png",
       "golesVisitante": "0"
     },
-    "estado": "NS",
+    "estado": "LIVE",
     "destacado": {
       "pr": "O15",
       "odd": "1.22"

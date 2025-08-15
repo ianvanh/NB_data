@@ -739,18 +739,18 @@
     },
     "estado": "FT",
     "destacado": {
-      "pr": "1X",
-      "odd": "1.25"
+      "pr": null,
+      "odd": null
     },
     "cuotas": {
-      "1": "1.83",
-      "2": "3.95",
+      "1": null,
+      "2": null,
       "12": null,
-      "X": "3.75",
+      "X": null,
       "1X": null,
       "X2": null,
-      "GG": "1.57",
-      "NG": "2.20",
+      "GG": null,
+      "NG": null,
       "O15": null,
       "U15": null,
       "O25": null,

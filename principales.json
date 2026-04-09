@@ -20,7 +20,9 @@
           },
           "eventId": "14773787",
           "eventIdFl": "lfhEicJr",
-          "finished": false
+          "finished": true,
+          "winner": "X",
+          "score": "1-1"
         },
         {
           "homeTeam": {
@@ -40,7 +42,9 @@
           },
           "eventId": "14108294",
           "eventIdFl": "6RA8Gcy8",
-          "finished": false
+          "finished": true,
+          "winner": "2",
+          "score": "1-4"
         },
         {
           "homeTeam": {
@@ -60,7 +64,9 @@
           },
           "eventId": "15832014",
           "eventIdFl": "jBTDviQa",
-          "finished": false
+          "finished": true,
+          "winner": "X",
+          "score": "1-1"
         }
       ],
       "optional": {

@@ -88,8 +88,11 @@
             "odd": "1.44"
           }
         },
-        "finished": false,
-        "result": "Pendiente"
+        "finished": true,
+        "result": "Ganada",
+        "winner": "X",
+        "score": "1-1",
+        "firstHalf": 1
       }
     }
   }
